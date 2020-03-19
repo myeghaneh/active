@@ -1,0 +1,2199 @@
+
+
+
+
+<!DOCTYPE html>
+<html lang="en" class="no-js">
+
+<head>
+
+        <title>Molecular Diagnosis of a Novel Coronavirus (2019-nCoV) Causing an Outbreak of Pneumonia | Clinical Chemistry | Oxford Academic</title>
+
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js" type="text/javascript"></script>
+<script>window.jQuery || document.write('<script src="//oup.silverchair-cdn.com/UI/app/vendor/jquery-2.2.4.js">\x3C/script>')</script>
+<script src="/Themes/Silver/app/vendor/jquery-migrate-1.4.1.min.js"></script>
+
+
+
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+
+    
+    <meta charset="utf-8" />
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+
+<!-- Bookmark Icons -->
+  <link rel="apple-touch-icon" sizes="180x180" href="//oup.silverchair-cdn.com/UI/app/img/v-637171821842052952/apple-touch-icon.png">
+  <link rel="icon" type="image/png" href="//oup.silverchair-cdn.com/UI/app/img/v-637171821842052952/favicon-32x32.png" sizes="32x32">
+  <link rel="icon" type="image/png" href="//oup.silverchair-cdn.com/UI/app/img/v-637171821842052952/favicon-16x16.png" sizes="16x16">
+  <link rel="mask-icon" href="//oup.silverchair-cdn.com/UI/app/img/v-637171821842209231/safari-pinned-tab.svg" color="#5bbad5">
+  <link rel="shortcut icon" href="//oup.silverchair-cdn.com/UI/app/img/v-637171821842052952/favicon.ico">
+  <link rel="manifest" href="//oup.silverchair-cdn.com/UI/app/img/v-637171821842052952/manifest.json">
+  <meta name="msapplication-config" content="//oup.silverchair-cdn.com/UI/app/img/v-637171821842052952/browserconfig.xml">
+  <meta name="theme-color" content="#002f65">
+
+
+    
+
+
+
+
+<link rel="stylesheet" type="text/css" href="//oup.silverchair-cdn.com/UI/app/fonts/icons.css" />
+
+<link rel="stylesheet" type="text/css" href="//oup.silverchair-cdn.com/UI/app/css/v-637171824116777631/style.min.css" />
+
+        <link rel="stylesheet" type="text/css" href="//oup.silverchair-cdn.com/UI/app/vendor/oupCookiePolicy/css/v-637171821843459263/jquery.fancybox-1.3.4_1.css" />
+        <link rel="stylesheet" type="text/css" href="//oup.silverchair-cdn.com/UI/app/vendor/jscrollpane/v-637171821843459263/jscrollpane.css" />
+        <link rel="stylesheet" type="text/css" href="//oup.silverchair-cdn.com/UI/app/vendor/jquery.tablesorter/v-637171821843459263/theme.default.css" />
+
+    <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Merriweather:300,400,400italic,700,700italic|Source+Sans+Pro:400,400italic,700,700italic" />
+
+
+        <link href=//oup.silverchair-cdn.com/data/SiteBuilderAssetsOriginals/Live/CSS/journals/global.css rel="stylesheet" type="text/css" />
+                <link href=//oup.silverchair-cdn.com/data/SiteBuilderAssets/Live/CSS/clinchem/Site-519543121.css rel="stylesheet" type="text/css" />
+
+        <script>
+        (function (w, d, s, l, i) {
+          w[l] = w[l] || []; w[l].push({
+            'gtm.start':
+              new Date().getTime(), event: 'gtm.js'
+          }); var f = d.getElementsByTagName(s)[0],
+            j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+            'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-W6DD7HV');
+        </script>
+
+    
+
+        <script type="text/javascript">
+            var App = App || {};
+            App.LoginUserInfo = {
+                isInstLoggedIn: [1],
+                isIndividualLoggedIn: [0]
+            };
+
+            App.CurrentSubdomain = 'clinchem';
+            App.SiteURL = 'academic.oup.com/clinchem';
+        </script>
+    
+    
+    <link href="https://cdn.jsdelivr.net/chartist.js/latest/chartist.min.css" rel="stylesheet" type="text/css" />
+    <script type="application/ld+json">
+        {"@context":"http://schema.org","@id":"https://academic.oup.com/clinchem/advance-article/doi/10.1093/clinchem/hvaa029/5719336","@type":"ScholarlyArticle","name":"Molecular Diagnosis of a Novel Coronavirus (2019-nCoV) Causing an Outbreak of Pneumonia","datePublished":"2020-01-31","isPartOf":{"@id":"https://academic.oup.com/clinchem/clinchem","@type":"Periodical","name":"Clinical Chemistry","issn":["1530-8561"]},"url":"http://dx.doi.org/10.1093/clinchem/hvaa029","inLanguage":"en","copyrightHolder":"American Association of Clinical Chemistry","copyrightYear":"2020","publisher":"Oxford University Press","sameAs":"https://academic.oup.com/clinchem/advance-article/doi/10.1093/clinchem/hvaa029/5719336","author":[{"name":"Chu, Daniel K W","affiliation":"School of Public Health, LKS Faculty of Medicine, The University of Hong Kong ,  Hong Kong","@type":"Person"},{"name":"Pan, Yang","affiliation":"Beijing Center for Disease Prevention and Control , Beijing,  China    Beijing Research Center for Preventive Medicine , Beijing,  China    School of Public Health, Capital Medical University , Beijing,  China","@type":"Person"},{"name":"Cheng, Samuel M S","affiliation":"School of Public Health, LKS Faculty of Medicine, The University of Hong Kong ,  Hong Kong","@type":"Person"},{"name":"Hui, Kenrie P Y","affiliation":"School of Public Health, LKS Faculty of Medicine, The University of Hong Kong ,  Hong Kong","@type":"Person"},{"name":"Krishnan, Pavithra","affiliation":"School of Public Health, LKS Faculty of Medicine, The University of Hong Kong ,  Hong Kong","@type":"Person"},{"name":"Liu, Yingzhi","affiliation":"School of Public Health, LKS Faculty of Medicine, The University of Hong Kong ,  Hong Kong","@type":"Person"},{"name":"Ng, Daisy Y M","affiliation":"School of Public Health, LKS Faculty of Medicine, The University of Hong Kong ,  Hong Kong","@type":"Person"},{"name":"Wan, Carrie K C","affiliation":"School of Public Health, LKS Faculty of Medicine, The University of Hong Kong ,  Hong Kong","@type":"Person"},{"name":"Yang, Peng","affiliation":"Beijing Center for Disease Prevention and Control , Beijing,  China    Beijing Research Center for Preventive Medicine , Beijing,  China    School of Public Health, Capital Medical University , Beijing,  China","@type":"Person"},{"name":"Wang, Quanyi","affiliation":"Beijing Center for Disease Prevention and Control , Beijing,  China    Beijing Research Center for Preventive Medicine , Beijing,  China","@type":"Person"},{"name":"Peiris, Malik","affiliation":"School of Public Health, LKS Faculty of Medicine, The University of Hong Kong ,  Hong Kong","@type":"Person"},{"name":"Poon, Leo L M","affiliation":"School of Public Health, LKS Faculty of Medicine, The University of Hong Kong ,  Hong Kong","@type":"Person"}],"description":"AbstractBackground.  A novel coronavirus of zoonotic origin (2019-nCoV) has recently been identified in patients with acute respiratory disease. This virus is g","pageStart":"hvaa029","thumbnailURL":"//oup.silverchair-cdn.com/UI/app/img/generic-cover.png","headline":"Molecular Diagnosis of a Novel Coronavirus (2019-nCoV) Causing an Outbreak of Pneumonia","image":"//oup.silverchair-cdn.com/UI/app/img/generic-cover.png"}
+    </script>
+    <meta property="og:site_name" content="OUP Academic" />
+    <meta property="og:type" content="article" />
+    <meta property="og:title" content="Molecular Diagnosis of a Novel Coronavirus (2019-nCoV) Causing an Outbreak of Pneumonia" />
+    <meta property="og:description" content="AbstractBackground.  A novel coronavirus of zoonotic origin (2019-nCoV) has recently been identified in patients with acute respiratory disease. This virus is g" />
+    <meta property="og:url" content="https://academic.oup.com/clinchem/advance-article/doi/10.1093/clinchem/hvaa029/5719336" />
+    <meta property="og:image" content="//oup.silverchair-cdn.com/UI/app/img/generic-cover.png" />
+    <meta property="og:updated_time" content="2020-01-31" />
+<meta name="citation_author" content="Chu, Daniel K W" /><meta name="citation_author_institution" content="School of Public Health, LKS Faculty of Medicine, The University of Hong Kong, Hong Kong" /><meta name="citation_author" content="Pan, Yang" /><meta name="citation_author_institution" content="Beijing Center for Disease Prevention and Control, Beijing, China" /><meta name="citation_author_institution" content="Beijing Research Center for Preventive Medicine, Beijing, China" /><meta name="citation_author_institution" content="School of Public Health, Capital Medical University, Beijing, China" /><meta name="citation_author" content="Cheng, Samuel M S" /><meta name="citation_author_institution" content="School of Public Health, LKS Faculty of Medicine, The University of Hong Kong, Hong Kong" /><meta name="citation_author" content="Hui, Kenrie P Y" /><meta name="citation_author_institution" content="School of Public Health, LKS Faculty of Medicine, The University of Hong Kong, Hong Kong" /><meta name="citation_author" content="Krishnan, Pavithra" /><meta name="citation_author_institution" content="School of Public Health, LKS Faculty of Medicine, The University of Hong Kong, Hong Kong" /><meta name="citation_author" content="Liu, Yingzhi" /><meta name="citation_author_institution" content="School of Public Health, LKS Faculty of Medicine, The University of Hong Kong, Hong Kong" /><meta name="citation_author" content="Ng, Daisy Y M" /><meta name="citation_author_institution" content="School of Public Health, LKS Faculty of Medicine, The University of Hong Kong, Hong Kong" /><meta name="citation_author" content="Wan, Carrie K C" /><meta name="citation_author_institution" content="School of Public Health, LKS Faculty of Medicine, The University of Hong Kong, Hong Kong" /><meta name="citation_author" content="Yang, Peng" /><meta name="citation_author_institution" content="Beijing Center for Disease Prevention and Control, Beijing, China" /><meta name="citation_author_institution" content="Beijing Research Center for Preventive Medicine, Beijing, China" /><meta name="citation_author_institution" content="School of Public Health, Capital Medical University, Beijing, China" /><meta name="citation_author" content="Wang, Quanyi" /><meta name="citation_author_institution" content="Beijing Center for Disease Prevention and Control, Beijing, China" /><meta name="citation_author_institution" content="Beijing Research Center for Preventive Medicine, Beijing, China" /><meta name="citation_author" content="Peiris, Malik" /><meta name="citation_author_institution" content="School of Public Health, LKS Faculty of Medicine, The University of Hong Kong, Hong Kong" /><meta name="citation_author" content="Poon, Leo L M" /><meta name="citation_author_institution" content="School of Public Health, LKS Faculty of Medicine, The University of Hong Kong, Hong Kong" /><meta name="citation_title" content="Molecular Diagnosis of a Novel Coronavirus (2019-nCoV) Causing an Outbreak of Pneumonia" /><meta name="citation_doi" content="10.1093/clinchem/hvaa029" /><meta name="citation_journal_title" content="Clinical Chemistry" /><meta name="citation_journal_abbrev" content="Clin Chem" /><meta name="citation_reference" content="citation_title=Origin and evolution of pathogenic coronaviruses;  citation_journal_title=Nat Rev Microbiol;  citation_year=2019;  citation_volume=17;  citation_pages=181-92; " /><meta name="citation_reference" content="citation_title=Worldwide reduction in MERS cases and deaths since 2016;  citation_journal_title=Emerg Infect Dis;  citation_year=2019;  citation_volume=25;  citation_pages=1758-60; " /><meta name="citation_reference" content="citation_title=The aetiology, origins, and diagnosis of severe acute respiratory syndrome;  citation_journal_title=Lancet Infect Dis;  citation_year=2004;  citation_volume=4;  citation_pages=663-71; " /><meta name="citation_reference" content="citation_title=Middle East Respiratory Syndrome (MERS) coronavirus seroprevalence in domestic livestock in Saudi Arabia, 2010 to 2013;  citation_journal_title=Euro Surveill;  citation_year=2013;  citation_volume=18;  citation_pages=20659." /><meta name="citation_reference" content="citation_title=Middle East Respiratory Syndrome coronavirus (MERS-CoV) serology in major livestock species in an affected region in Jordan, June to September 2013;  citation_journal_title=Euro Surveill;  citation_year=2013;  citation_volume=18;  citation_pages=20662." /><meta name="citation_reference" content="citation_title=Isolation and characterization of viruses related to the SARS coronavirus from animals in southern China;  citation_journal_title=Science;  citation_year=2003;  citation_volume=302;  citation_pages=276-8; " /><meta name="citation_reference" content="citation_title=SARS and MERS: recent insights into emerging coronaviruses;  citation_journal_title=Nat Rev Microbiol;  citation_year=2016;  citation_volume=14;  citation_pages=523-34; " /><meta name="citation_reference" content="citation_title=The emergence of human coronavirus emc: How scared should we be?;  citation_journal_title=mBio;  citation_year=2013;  citation_volume=4;  citation_pages=e00191-13; " /><meta name="citation_reference" content="citation_title=Discovery of a rich gene pool of bat SARS-related coronaviruses provides new insights into the origin of SARS coronavirus;  citation_journal_title=PLoS Pathog;  citation_year=2017;  citation_volume=13;  citation_pages=e1006698." /><meta name="citation_reference" content="World Health Organization. Novel Coronavirus ( 2019 -nCoV), Situation report- 1. https://www.who.int/docs/default-source/coronaviruse/situation-reports/20200121-sitrep-1-2019-ncov.pdf? sfvrsn=20a99c10_4 (Accessed January 2020 ). " /><meta name="citation_reference" content="Zhou P, Yang X, Wang X, Hu B, Zhang L, Zhang W , et al. Discovery of a novel coronavirus associated with the recent pneumonia outbreak in humans and its potential bat origin. Preprint at https://www.biorxiv.org/content/10.1101/2020.01.22.914952v1 ( 2020 ). " /><meta name="citation_reference" content="World Health Organization. Novel Coronavirus ( 2019 -nCoV), Situation report- 2. https://www.who.int/docs/default-source/coronaviruse/situation-reports/20200122-sitrep-2-2019-ncov.pdf? sfvrsn=4d5bcbca_2 (Accessed January 2020 ). " /><meta name="citation_reference" content="South China Morning Post. Wuhan virus kills fourth patient, infects hospital staff amid fear of ‘super-spreader’ https://www.scmp.com/news/china/society/article/3046908/new-china-virus-likely-human-transmission-stage-infections. (Accessed January 2020 ). " /><meta name="citation_reference" content="citation_title=Mega x: Molecular evolutionary genetics analysis across computing platforms;  citation_journal_title=Mol Biol Evol;  citation_year=2018;  citation_volume=35;  citation_pages=1547-9; " /><meta name="citation_reference" content="citation_title=MERS coronaviruses from camels in Africa exhibit region-dependent genetic diversity;  citation_journal_title=Proc Natl Acad Sci USA;  citation_year=2018;  citation_volume=115;  citation_pages=3144-9; " /><meta name="citation_reference" content="citation_title=mRNA PCR for the diagnosis of feline infectious peritonitis;  citation_journal_title=J Virol Methods;  citation_year=2005;  citation_volume=124;  citation_pages=111-6; " /><meta name="citation_reference" content="citation_title=SARS-CoV infection in a restaurant from palm civet;  citation_journal_title=Emerg Infect Dis;  citation_year=2005;  citation_volume=11;  citation_pages=1860-5; " /><meta name="citation_reference" content="World Health Organization. Detection of 2019 novel coronavirus (2019-nCoV) in suspected human cases by RT-PCR. https://www.who.int/docs/default-source/coronaviruse/peiris-protocol-16-1-20.pdf? sfvrsn=af1aac73_4/ (Accessed January  2020 ). " /><meta name="citation_reference" content="World Health Organization. Laboratory testing for 2019 novel coronavirus ( 2019 -nCoV) in suspected human cases. https://www.who.int/publications-detail/laboratory-testing-for-2019-novel-coronavirus- (2019-nCoV)-in-suspected-human-cases (Accessed January 2020). " /><meta name="citation_reference" content="citation_title=Detection of 2019 novel coronavirus (2019-nCoV) by real-time RT-PCR;  citation_journal_title=Euro Surveill;  citation_year=2020;  citation_volume=25;  citation_pages=2000045" /><meta name="citation_pdf_url" content="https://academic.oup.com/clinchem/advance-article-pdf/doi/10.1093/clinchem/hvaa029/32373549/hvaa029.pdf" /><meta name="description" content="AbstractBackground.  A novel coronavirus of zoonotic origin (2019-nCoV) has recently been identified in patients with acute respiratory disease. This virus is g" />    <div class="widget widget-Hypothesis widget-instance-OUP_Article_Hypothesis">
+        <div id="hypothesis-container">
+</div> 
+    </div>
+<meta name="citation_xml_url" content="https://academic.oup.com/clinchem/advance-article-xml/doi/10.1093/clinchem/hvaa029/5719336" />
+
+
+
+    <link rel="canonical" href="https://academic.oup.com/clinchem/advance-article/doi/10.1093/clinchem/hvaa029/5719336" />
+
+
+
+
+    
+    
+
+
+<script async="async" src="https://www.googletagservices.com/tag/js/gpt.js"></script>
+<script>
+    var googletag = googletag || {};
+    googletag.cmd = googletag.cmd || [];
+</script>
+    
+        <script type='text/javascript'>
+                        var gptAdSlots = [];
+                    googletag.cmd.push(function() {
+            
+            var mapping_ad1 = googletag.sizeMapping()
+            .addSize([1024, 0], [[970, 90], [728, 90]])
+            .addSize([768, 0], [728, 90])
+            .addSize([0, 0], [320, 50])
+            .build();
+            gptAdSlots["ad1"] = googletag.defineSlot('/116097782/clinchem_Behind_Ad1',
+                [[970, 90], [728, 90], [320, 50]],
+                'adBlockHeader')
+            .defineSizeMapping(mapping_ad1)
+            .addService(googletag.pubads());
+            
+
+            
+            var mapping_ad2 = googletag.sizeMapping()
+            .addSize([0, 0], [])
+            .addSize([768, 0], [[300, 250], [300, 600], [160, 600]])
+            .build();
+        gptAdSlots["ad2"] = googletag.defineSlot('/116097782/clinchem_Behind_Ad2',
+                [[300, 250], [160, 600], [300, 600]],
+                'adBlockMainBodyTop')
+            .defineSizeMapping(mapping_ad2)
+            .addService(googletag.pubads());
+            
+
+            
+            var mapping_ad3 = googletag.sizeMapping()
+            .addSize([0, 0], [])
+            .addSize([768, 0], [[300, 250], [300, 600], [160, 600]])
+            .build();
+    gptAdSlots["ad3"] = googletag.defineSlot('/116097782/clinchem_Behind_Ad3',
+                [[300, 250], [160, 600], [300, 600]],
+                'adBlockMainBodyBottom')
+            .defineSizeMapping(mapping_ad3)
+            .addService(googletag.pubads());
+            
+
+            
+                var mapping_ad4 = googletag.sizeMapping()
+                .addSize([0, 0], [])
+                .addSize([768, 0], [728, 90])
+                .build();
+    gptAdSlots["ad4"] = googletag.defineSlot('/116097782/clinchem_Behind_Ad4', [728, 90], 'adBlockFooter')
+                .defineSizeMapping(mapping_ad4)
+                .addService(googletag.pubads());
+            
+            googletag.pubads().setTargeting("jnlspage", "advance-article");
+    googletag.pubads().setTargeting("jnlsurl", "clinchem/advance-article/doi/10.1093/clinchem/hvaa029/5719336");
+    googletag.pubads().enableSingleRequest();
+    googletag.pubads().collapseEmptyDivs();
+        });
+        </script>
+    
+
+
+    
+
+
+    
+
+
+
+    
+
+
+
+    
+
+
+    <script>
+        var oupcookiepolicy_siteid = "journals";        // the website id
+        var oupcookiepolicy_messagetype = 'implied';                        // type of alert message e.g, implied / explicit
+        var oupcookiepolicy_preferredlanguage = "en";      // preferred language of the website
+        var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';    // the css class for implied alert message
+        var oupcookiepolicy_documentroot = '/';	  			                // the document root the cookie is set to
+    </script>
+    <noscript>We use cookies to enhance your experience on our website.By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="https://global.oup.com/cookiepolicy/"> Find out more</a></noscript>
+    <script type="text/javascript">
+        var NTPT_PGEXTRA= 'event_type=full-text&supplier_tag=SC_Journals&object_type=Article&siteid=clinchem&authentication_method=IP&authzrequired=false&account_id=2747063&account_list=2747063,2742893,2746229,2746775,2747504,2752818,2758241,2759258,2765241,2769335,2792118,2971150,3247713&authnips=141.20.159.34&doi=10.1093/clinchem/hvaa029';
+    </script>
+
+
+
+
+
+
+</head>
+
+<body data-sitename="clinicalchemistry" class="off-canvas pg_Article pg_article  " theme-clinchem data-sitestyletemplate="Journal" >
+    
+        <noscript>
+            <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-W6DD7HV"
+                    height="0" width="0" style="display:none;visibility:hidden"></iframe>
+        </noscript>
+        <a href="#main" class="skipnav">Skip to Main Content</a>
+<input id="hdnSiteID" name="hdnSiteID" type="hidden" value="6246" /><input id="hdnAdDelaySeconds" name="hdnAdDelaySeconds" type="hidden" value="5000" /><input id="hdnAdConfigurationTop" name="hdnAdConfigurationTop" type="hidden" value="scrolldelay" /><input id="hdnAdConfigurationRightRail" name="hdnAdConfigurationRightRail" type="hidden" value="sticky" />
+    
+
+
+
+
+
+
+<div class="master-container js-master-container">
+    <section class="master-header row js-master-header vt-site-page-header">
+    <div class="widget widget-SitePageHeader widget-instance-SitePageHeader">
+        
+    <div class="ad-banner js-ad-banner-header">
+    <div class="widget widget-AdBlock widget-instance-HeaderAd">
+        
+
+<div id="adBlockHeader"
+     style=" ">
+    <script>
+        googletag.cmd.push(function () { googletag.display('adBlockHeader'); });
+    </script>
+</div>
+ 
+    </div>
+
+    </div>
+
+    <div class="oup-header">
+        <div class="center-inner-row">
+            <div class="oup-header-logo">
+                <a href="/">
+                    <img src="//oup.silverchair-cdn.com/UI/app/svg/umbrella/oxford-academic-logo.svg" alt="Oxford University Press" class="oup-header-image" />
+                </a>
+            </div>
+
+            <ul class="oup-header-menu account-menu">
+
+                
+                <li class="oup-header-menu-item mobile">
+                    <a href="javascript:;" class="mobile-dropdown-toggle mobile-search-toggle">
+                        <i class="icon-menu_search"><span class="screenreader-text">Search Menu</span></i>
+                    </a>
+                </li>
+
+                
+                <li class="oup-header-menu-item mobile">
+                    <a href="javascript:;" class="mobile-dropdown-toggle mobile-account-toggle">
+                        <i class="icon-menu_account"><span class="screenreader-text">Account Menu</span></i>
+                    </a>
+                </li>
+
+                
+                <li class="oup-header-menu-item mobile">
+                    <a href="javascript:;" class="mobile-dropdown-toggle mobile-nav-toggle">
+                        <i class="icon-menu_hamburger"><span class="screenreader-text">Menu</span></i>
+                    </a>
+                </li>
+
+                
+                    <li class="oup-header-menu-item desktop">
+                        
+                            <a href="" class="dropdown-toggle institution">Humbolt Universitaet <i class="icon-general-arrow-filled-down arrow-icon"></i></a>
+                        <div class="dropdown-panel dropdown-panel-institution">
+                            
+                            <div class="dropdown-menu">
+                                <ul>
+
+                                        <li class="dropdown-institution-item">
+
+Humbolt Universitaet
+                                        </li>
+
+                                </ul>
+
+                            </div>
+                        </div>
+                    </li>                <li class="oup-header-menu-item desktop">
+                    <a href="" class="dropdown-toggle signin" id="header-account-info-user-fullname">
+                        
+Sign In                        <i class="icon-general-arrow-filled-down arrow-icon"></i>
+                    </a>
+                    <div class="dropdown-panel dropdown-panel-signin dropdown-panel-form">
+                        <div class="spinner"></div>
+                    </div>
+                </li>
+
+                
+                    <li class="oup-header-menu-item desktop"><a href="/my-account/register?siteId=6246&amp;returnUrl=%2fclinchem%2fadvance-article%2fdoi%2f10.1093%2fclinchem%2fhvaa029%2f5719336" class="register">Register</a></li>
+                
+            </ul>
+        </div>
+    </div>
+<div class="dropdown-panel-wrap">
+
+    
+    <div class="dropdown-panel mobile-search-dropdown">
+        <div class="mobile-search-inner-wrap">
+            <div class="navbar-search">
+                <div id="MobileMicrositeSearch" class="mobile-microsite-search">
+                    <label for="mobile-navbar-search-filter" class="screenreader-text">Navbar Search Filter</label>
+                    <select class="navbar-search-filter" id="mobile-navbar-search-filter">
+                                                    <optgroup label="Search within this journal">
+<option class="header-search-bar-filters-item" value="">All  Clinical Chemistry</option>
+                            </optgroup>
+                            <optgroup label="Search beyond this journal">
+<option class="header-search-bar-filters-item" value="Parent">All  AACC Journals</option><option class="header-search-bar-filters-item" value="Journals">All  Journals</option>                            </optgroup>
+                    </select>
+
+
+
+
+
+                    <label for="MobileMicrositeSearchTerm" class="screenreader-text">Mobile Microsite Search Term</label>
+                    <input class="mobile-search-input mobile-microsite-search-term" type="text" maxlength="255" placeholder="Search" id="MobileMicrositeSearchTerm">
+
+                    <a href="javascript:;" id="MobileMicrositeSearchIcon" class="mobile-microsite-search-icon mobile-search-submit icon-menu_search"><span class="screenreader-text">Search</span></a>
+
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <div class="dropdown-panel mobile-account-dropdown">
+        <ul class="site-menu site-menu-lvl-0">
+            <li class="site-menu-item site-menu-lvl-0">
+                <a href="" class="nav-link mobile-account-signin dummy-link" id="header-account-info-user-fullname">
+                    
+Sign In                    <i class="mobile-nav-arrow icon-general_arrow-down"></i>
+                </a>
+                <ul class="site-menu site-menu-lvl-1 individual-menu">
+                    <li class="dropdown-signin-form">
+                        <div class="spinner"></div>
+                    </li>
+                </ul>
+            </li>
+                <li class="site-menu-item site-menu-lvl-0">
+                        <a href="javascript:;" class="nav-link mobile-account-institution dummy-link">
+                            Humbolt Universitaet
+                        </a>
+
+                    <i class="mobile-nav-arrow icon-general_arrow-down"></i>
+                    <ul class="site-menu site-menu-lvl-1">
+                            <li class="dropdown-institution-item">
+
+Humbolt Universitaet
+                            </li>
+
+                        <li class="dropdown-institution-signout">
+                        </li>
+                    </ul>
+                </li>
+                            <li class="site-menu-item">
+                    <a href="/my-account/register?siteId=6246&amp;returnUrl=%2fclinchem%2fadvance-article%2fdoi%2f10.1093%2fclinchem%2fhvaa029%2f5719336" class="register nav-link">Register</a>
+                </li>
+        </ul>
+    </div>
+    
+    <div class="dropdown-panel mobile-nav-dropdown">
+
+
+    <i class="desktop-nav-arrow icon-general-arrow-filled-down arrow-icon"></i><i class="mobile-nav-arrow icon-general_arrow-down"></i>
+    <ul class="site-menu site-menu-lvl-0">
+            <li class="site-menu-item site-menu-lvl-0" id="site-menu-item-1461170">
+                <a href="/clinchem/issue" class="nav-link ">Issues</a>
+                
+            </li>
+            <li class="site-menu-item site-menu-lvl-0" id="site-menu-item-1461167">
+                <a href="/clinchem/#" class="nav-link dummy-link">More Content</a>
+                    <i class="desktop-nav-arrow icon-general-arrow-filled-down arrow-icon"></i><i class="mobile-nav-arrow icon-general_arrow-down"></i>
+    <ul class="site-menu site-menu-lvl-1">
+            <li class="site-menu-item site-menu-lvl-1" id="site-menu-item-1461171">
+                <a href="/clinchem/advance-articles" class="nav-link ">Advance Articles</a>
+                
+            </li>
+            <li class="site-menu-item site-menu-lvl-1" id="site-menu-item-1461172">
+                <a href="https://www.aacc.org/publications/clinical-chemistry/clinical-case-studies" class="nav-link ">Clinical Case Studies</a>
+                
+            </li>
+            <li class="site-menu-item site-menu-lvl-1" id="site-menu-item-1461173">
+                <a href="https://www.aacc.org/publications/clinical-chemistry/the-journal-club" class="nav-link ">Journal Club</a>
+                
+            </li>
+            <li class="site-menu-item site-menu-lvl-1" id="site-menu-item-1461174">
+                <a href="https://www.aacc.org/publications/clinical-chemistry/q-and-a" class="nav-link ">Q&A</a>
+                
+            </li>
+            <li class="site-menu-item site-menu-lvl-1" id="site-menu-item-1461175">
+                <a href="https://www.aacc.org/publications/clinical-chemistry/clinical-chemistry-podcasts" class="nav-link ">Clinical Chemistry Podcasts</a>
+                
+            </li>
+            <li class="site-menu-item site-menu-lvl-1" id="site-menu-item-1461176">
+                <a href="https://www.aacc.org/clinical-chemistry-trainee-council" class="nav-link ">Clinical Chemistry Trainee Council</a>
+                
+            </li>
+            <li class="site-menu-item site-menu-lvl-1" id="site-menu-item-1461177">
+                <a href="https://www.aacc.org/education-and-career/learning-lab" class="nav-link ">AACC Learning Lab</a>
+                
+            </li>
+            <li class="site-menu-item site-menu-lvl-1" id="site-menu-item-1461178">
+                <a href="/clinchem/pages/collections_and_special_issues" class="nav-link ">Special Issues</a>
+                
+            </li>
+            <li class="site-menu-item site-menu-lvl-1" id="site-menu-item-1461179">
+                <a href="https://www.aacc.org/publications/clinical-chemistry/clinical-chemistry%C2%A0guide-to-scientific-writing" class="nav-link ">Clinical Chemistry Guide to Scientific Writing</a>
+                
+            </li>
+            <li class="site-menu-item site-menu-lvl-1" id="site-menu-item-1461180">
+                <a href="https://www.aacc.org/publications/clinical-chemistry/manuscript-review" class="nav-link ">Clinical Chemistry Guide to Manuscript Review</a>
+                
+            </li>
+    </ul>
+
+            </li>
+            <li class="site-menu-item site-menu-lvl-0" id="site-menu-item-1461168">
+                <a href="/clinchem/#" class="nav-link dummy-link">Submit</a>
+                    <i class="desktop-nav-arrow icon-general-arrow-filled-down arrow-icon"></i><i class="mobile-nav-arrow icon-general_arrow-down"></i>
+    <ul class="site-menu site-menu-lvl-1">
+            <li class="site-menu-item site-menu-lvl-1" id="site-menu-item-1461181">
+                <a href="/clinchem/pages/General_Instructions" class="nav-link ">Author Guidelines</a>
+                
+            </li>
+            <li class="site-menu-item site-menu-lvl-1" id="site-menu-item-1461182">
+                <a href="https://submit.clinchem.org/" class="nav-link ">Submission Site</a>
+                
+            </li>
+            <li class="site-menu-item site-menu-lvl-1" id="site-menu-item-1461183">
+                <a href="https://academic.oup.com/journals/pages/access_purchase/rights_and_permissions/self_archiving_policy_b" class="nav-link ">Self-Archiving Policy</a>
+                
+            </li>
+    </ul>
+
+            </li>
+            <li class="site-menu-item site-menu-lvl-0" id="site-menu-item-1461184">
+                <a href="/clinchem/subscribe" class="nav-link ">Purchase</a>
+                
+            </li>
+            <li class="site-menu-item site-menu-lvl-0" id="site-menu-item-1461185">
+                <a href="https://academic.oup.com/journals/pages/help/journal_alerts" class="nav-link ">Alerts</a>
+                
+            </li>
+            <li class="site-menu-item site-menu-lvl-0" id="site-menu-item-1461169">
+                <a href="/clinchem/#" class="nav-link dummy-link">About</a>
+                    <i class="desktop-nav-arrow icon-general-arrow-filled-down arrow-icon"></i><i class="mobile-nav-arrow icon-general_arrow-down"></i>
+    <ul class="site-menu site-menu-lvl-1">
+            <li class="site-menu-item site-menu-lvl-1" id="site-menu-item-1461186">
+                <a href="/clinchem/pages/About" class="nav-link ">About AACC’s Clinical Chemistry</a>
+                
+            </li>
+            <li class="site-menu-item site-menu-lvl-1" id="site-menu-item-1461187">
+                <a href="https://www.aacc.org/about-aacc" class="nav-link ">About AACC</a>
+                
+            </li>
+            <li class="site-menu-item site-menu-lvl-1" id="site-menu-item-1461188">
+                <a href="/clinchem/pages/Editorial_Board" class="nav-link ">Editorial Board</a>
+                
+            </li>
+            <li class="site-menu-item site-menu-lvl-1" id="site-menu-item-1461189">
+                <a href="http://www.oupmediainfo.com/#!/" class="nav-link ">Advertising & Corporate Services</a>
+                
+            </li>
+            <li class="site-menu-item site-menu-lvl-1" id="site-menu-item-1461190">
+                <a href="/clinchem/pages/member_access" class="nav-link ">Member Access</a>
+                
+            </li>
+    </ul>
+
+            </li>
+    </ul>
+    </div>
+
+</div>
+
+
+    <div class="journal-header journal-bg">
+        <div class="center-inner-row">
+                            <a href="/clinchem" class="journal-logo-container">
+                    <img id="logo-ClinicalChemistry" class="journal-logo" src="//oup.silverchair-cdn.com/data/SiteBuilderAssets/Live/Images/clinchem/clinchem_title1176900608.svg" alt="Clinical Chemistry" />
+                </a>
+
+            <div class="society-logo-block">
+                    <div class="society-block-inner-wrap">
+                            <a href="https://www.aacc.org/" target="" class="society-logo-container">
+                                <img id="logo-AmericanAssociationofClinicalChemistry" class="society-logo" src="//oup.silverchair-cdn.com/data/SiteBuilderAssets/Live/Images/clinchem/clinchem_h11225969388.svg" alt="American Association of Clinical Chemistry" />
+                            </a>
+                                            </div>            </div> 
+        </div>
+    </div>
+<div class="navbar">
+    <div class="center-inner-row">
+        <nav class="navbar-menu">
+
+
+    <i class="desktop-nav-arrow icon-general-arrow-filled-down arrow-icon"></i><i class="mobile-nav-arrow icon-general_arrow-down"></i>
+    <ul class="site-menu site-menu-lvl-0">
+            <li class="site-menu-item site-menu-lvl-0" id="site-menu-item-1461170">
+                <a href="/clinchem/issue" class="nav-link ">Issues</a>
+                
+            </li>
+            <li class="site-menu-item site-menu-lvl-0" id="site-menu-item-1461167">
+                <a href="/clinchem/#" class="nav-link dummy-link">More Content</a>
+                    <i class="desktop-nav-arrow icon-general-arrow-filled-down arrow-icon"></i><i class="mobile-nav-arrow icon-general_arrow-down"></i>
+    <ul class="site-menu site-menu-lvl-1">
+            <li class="site-menu-item site-menu-lvl-1" id="site-menu-item-1461171">
+                <a href="/clinchem/advance-articles" class="nav-link ">Advance Articles</a>
+                
+            </li>
+            <li class="site-menu-item site-menu-lvl-1" id="site-menu-item-1461172">
+                <a href="https://www.aacc.org/publications/clinical-chemistry/clinical-case-studies" class="nav-link ">Clinical Case Studies</a>
+                
+            </li>
+            <li class="site-menu-item site-menu-lvl-1" id="site-menu-item-1461173">
+                <a href="https://www.aacc.org/publications/clinical-chemistry/the-journal-club" class="nav-link ">Journal Club</a>
+                
+            </li>
+            <li class="site-menu-item site-menu-lvl-1" id="site-menu-item-1461174">
+                <a href="https://www.aacc.org/publications/clinical-chemistry/q-and-a" class="nav-link ">Q&A</a>
+                
+            </li>
+            <li class="site-menu-item site-menu-lvl-1" id="site-menu-item-1461175">
+                <a href="https://www.aacc.org/publications/clinical-chemistry/clinical-chemistry-podcasts" class="nav-link ">Clinical Chemistry Podcasts</a>
+                
+            </li>
+            <li class="site-menu-item site-menu-lvl-1" id="site-menu-item-1461176">
+                <a href="https://www.aacc.org/clinical-chemistry-trainee-council" class="nav-link ">Clinical Chemistry Trainee Council</a>
+                
+            </li>
+            <li class="site-menu-item site-menu-lvl-1" id="site-menu-item-1461177">
+                <a href="https://www.aacc.org/education-and-career/learning-lab" class="nav-link ">AACC Learning Lab</a>
+                
+            </li>
+            <li class="site-menu-item site-menu-lvl-1" id="site-menu-item-1461178">
+                <a href="/clinchem/pages/collections_and_special_issues" class="nav-link ">Special Issues</a>
+                
+            </li>
+            <li class="site-menu-item site-menu-lvl-1" id="site-menu-item-1461179">
+                <a href="https://www.aacc.org/publications/clinical-chemistry/clinical-chemistry%C2%A0guide-to-scientific-writing" class="nav-link ">Clinical Chemistry Guide to Scientific Writing</a>
+                
+            </li>
+            <li class="site-menu-item site-menu-lvl-1" id="site-menu-item-1461180">
+                <a href="https://www.aacc.org/publications/clinical-chemistry/manuscript-review" class="nav-link ">Clinical Chemistry Guide to Manuscript Review</a>
+                
+            </li>
+    </ul>
+
+            </li>
+            <li class="site-menu-item site-menu-lvl-0" id="site-menu-item-1461168">
+                <a href="/clinchem/#" class="nav-link dummy-link">Submit</a>
+                    <i class="desktop-nav-arrow icon-general-arrow-filled-down arrow-icon"></i><i class="mobile-nav-arrow icon-general_arrow-down"></i>
+    <ul class="site-menu site-menu-lvl-1">
+            <li class="site-menu-item site-menu-lvl-1" id="site-menu-item-1461181">
+                <a href="/clinchem/pages/General_Instructions" class="nav-link ">Author Guidelines</a>
+                
+            </li>
+            <li class="site-menu-item site-menu-lvl-1" id="site-menu-item-1461182">
+                <a href="https://submit.clinchem.org/" class="nav-link ">Submission Site</a>
+                
+            </li>
+            <li class="site-menu-item site-menu-lvl-1" id="site-menu-item-1461183">
+                <a href="https://academic.oup.com/journals/pages/access_purchase/rights_and_permissions/self_archiving_policy_b" class="nav-link ">Self-Archiving Policy</a>
+                
+            </li>
+    </ul>
+
+            </li>
+            <li class="site-menu-item site-menu-lvl-0" id="site-menu-item-1461184">
+                <a href="/clinchem/subscribe" class="nav-link ">Purchase</a>
+                
+            </li>
+            <li class="site-menu-item site-menu-lvl-0" id="site-menu-item-1461185">
+                <a href="https://academic.oup.com/journals/pages/help/journal_alerts" class="nav-link ">Alerts</a>
+                
+            </li>
+            <li class="site-menu-item site-menu-lvl-0" id="site-menu-item-1461169">
+                <a href="/clinchem/#" class="nav-link dummy-link">About</a>
+                    <i class="desktop-nav-arrow icon-general-arrow-filled-down arrow-icon"></i><i class="mobile-nav-arrow icon-general_arrow-down"></i>
+    <ul class="site-menu site-menu-lvl-1">
+            <li class="site-menu-item site-menu-lvl-1" id="site-menu-item-1461186">
+                <a href="/clinchem/pages/About" class="nav-link ">About AACC’s Clinical Chemistry</a>
+                
+            </li>
+            <li class="site-menu-item site-menu-lvl-1" id="site-menu-item-1461187">
+                <a href="https://www.aacc.org/about-aacc" class="nav-link ">About AACC</a>
+                
+            </li>
+            <li class="site-menu-item site-menu-lvl-1" id="site-menu-item-1461188">
+                <a href="/clinchem/pages/Editorial_Board" class="nav-link ">Editorial Board</a>
+                
+            </li>
+            <li class="site-menu-item site-menu-lvl-1" id="site-menu-item-1461189">
+                <a href="http://www.oupmediainfo.com/#!/" class="nav-link ">Advertising & Corporate Services</a>
+                
+            </li>
+            <li class="site-menu-item site-menu-lvl-1" id="site-menu-item-1461190">
+                <a href="/clinchem/pages/member_access" class="nav-link ">Member Access</a>
+                
+            </li>
+    </ul>
+
+            </li>
+    </ul>
+        </nav>
+            <div class="navbar-search-container">
+                <a href="javascript:;" class="navbar-search-close js_close-navsearch">Close</a>
+                <div class="navbar-search">
+                    <div id="MicrositeSearch" class="microsite-search">
+                        <label for="navbar-search-filter" class="screenreader-text">search filter</label>
+                        <select class="navbar-search-filter" id="navbar-search-filter">
+                                                            <optgroup label="Search within this journal">
+                                            <option class="header-search-bar-filters-item" value="" selected=&quot;selected&quot;>All  Clinical Chemistry</option>
+
+                                </optgroup>
+                                <optgroup label="Search beyond this journal">
+                                            <option class="header-search-bar-filters-item" value="Parent" >All  AACC Journals</option>
+                                            <option class="header-search-bar-filters-item" value="Journals" >All  Journals</option>
+                                </optgroup>
+                        </select>
+
+                        <label for="MicrositeSearchTerm" class="screenreader-text">search input</label>
+                        <input class="navbar-search-input microsite-search-term" type="text" maxlength="255" id="MicrositeSearchTerm" title="search input">
+
+                        <a href="javascript:;" id="MicrositeSearchIcon" class="microsite-search-icon navbar-search-submit icon-menu_search"><span class="screenreader-text">Search</span></a>
+
+                    </div>
+                </div>
+                <div class="navbar-search-advanced"><a href="/clinchem/advanced-search" class="advanced-search js-advanced-search">Advanced Search</a></div>
+            </div>            <div class="navbar-search-collapsed"><a href="javascript:;" class="icon-menu_search js_expand-navsearch"><span class="screenreader-text">Search Menu</span></a></div>
+    </div>
+</div>
+
+<input id="hfEnableOupOnlineProductsFeatures" name="hfEnableOupOnlineProductsFeatures" type="hidden" value="False" />
+
+    <input type="hidden" name="searchScope" id="hfSolrJournalID" value="" />
+    <input type="hidden" name="parentSiteName" id="hfParentSiteName" value="AACC Journals" />
+    <input type="hidden" name="parentSiteUrl" id="hfparentSiteUrl" value="academic.oup.com/aaccjournals" />
+    <input type="hidden" name="siteID" id="hfsiteID" value="6246" />
+    <input type="hidden" name="parentSiteID" id="hfparentSiteID" value="6264" />
+    <input type="hidden" id="hfSolrJournalName" value="" />
+    <input type="hidden" id="hfSolrMaxAllowSearchChar" value="100" />
+    <input type="hidden" id="hfJournalShortName" value="" />
+    <input type="hidden" id="hfSearchPlaceholder" value="" />
+    <input type="hidden" name="hfGlobalSearchSiteURL" id="hfGlobalSearchSiteURL" value="" />
+    <input type="hidden" name="journalSiteScope" id="hfjournalSiteScope" value="Journals" />
+    <input type="hidden" name="parentSiteScope" id="hfparentSiteScope" value="Parent" />
+    <input type="hidden" name="defaultSearchURL" id="hfdefaultSearchURL" value="search-results?page=1&amp;q=" />
+    <input type="hidden" name="issueSearch" id="hfIssueSearch" value="" />
+    <input type="hidden" name="issueSiteScope" id="hfIssueSiteScope" value="Issue" />
+<input id="hfDefaultAdvancedSearchUrl" name="hfDefaultAdvancedSearchUrl" type="hidden" value="advanced-search?page=1&amp;q=" />    <input type="hidden" name="hfSearchSiteURL" id="hfSiteURL" value="academic.oup.com/clinchem" />
+    <script type="text/javascript">
+        (function () {
+            var hfSiteUrl = document.getElementById('hfSiteURL');
+            var siteUrl = hfSiteUrl.value;
+            var subdomainIndex = siteUrl.indexOf('/');
+
+            hfSiteUrl.value = location.host + (subdomainIndex >= 0 ? siteUrl.substring(subdomainIndex) : '');
+        })();
+    </script>
+<input id="routename" name="RouteName" type="hidden" value="clinchem" /> 
+    </div>
+
+</section>
+
+    <div id="main" class="content-main js-main ui-base">
+        <section class="master-main row">
+            <div class="center-inner-row no-overflow">
+                
+
+
+<div class="page-column-wrap">
+<div id="InfoColumn" class="page-column page-column--left js-left-nav-col">
+    <div class="mobile-content-topbar hide">
+        <button class="toggle-left-col toggle-left-col__article">Article Navigation</button>
+    </div>
+    <div class="info-inner-wrap js-left-nav">
+        <button class="toggle-left-col__close btn-as-icon icon-general-close">
+            <span class="screenreader-text">Close mobile search navigation</span>
+        </button>
+        <div class="responsive-nav-title">Article Navigation</div>
+        <div class="info-widget-wrap">
+
+            <div class="content-nav">
+    <div class="widget widget-ArticleJumpLinks widget-instance-OUP_ArticleJumpLinks_Widget">
+        
+
+<div class="contents-title" >Article Contents</div>
+<ul class="jumplink-list">
+        <li class="section-jump-link head-1" link-destination="198623084">
+            <div class="section-jump-link__link-wrap">
+
+                <a class="js-jumplink scrollTo" href="#198623084">Abstract</a>
+            </div>
+        </li>
+        <li class="section-jump-link head-1" link-destination="198623085">
+            <div class="section-jump-link__link-wrap">
+
+                <a class="js-jumplink scrollTo" href="#198623085">Introduction</a>
+            </div>
+        </li>
+        <li class="section-jump-link head-1" link-destination="198623089">
+            <div class="section-jump-link__link-wrap">
+
+                <a class="js-jumplink scrollTo" href="#198623089">Materials and Methods</a>
+            </div>
+        </li>
+        <li class="section-jump-link head-1" link-destination="198623098">
+            <div class="section-jump-link__link-wrap">
+
+                <a class="js-jumplink scrollTo" href="#198623098">Results</a>
+            </div>
+        </li>
+        <li class="section-jump-link head-1" link-destination="198623109">
+            <div class="section-jump-link__link-wrap">
+
+                <a class="js-jumplink scrollTo" href="#198623109">Discussion</a>
+            </div>
+        </li>
+        <li class="section-jump-link head-1" link-destination="198623115">
+            <div class="section-jump-link__link-wrap">
+
+                <a class="js-jumplink scrollTo" href="#198623115">Disclosures</a>
+            </div>
+        </li>
+        <li class="section-jump-link head-1" link-destination="198623120">
+            <div class="section-jump-link__link-wrap">
+
+                <a class="js-jumplink scrollTo" href="#198623120">Acknowledgments</a>
+            </div>
+        </li>
+        <li class="section-jump-link head-1 backReferenceLink" link-destination="198623122">
+            <div class="section-jump-link__link-wrap">
+
+                <a class="js-jumplink scrollTo" href="#198623122">References</a>
+            </div>
+        </li>
+</ul>
+ 
+    </div>
+
+            </div>
+
+        </div>
+    </div>
+</div>
+<div class="sticky-toolbar js-sticky-toolbar"></div>
+<div id="ContentColumn" class="page-column page-column--center">
+    <div class="article-browse-top article-browse-mobile-nav js-mobile-nav">
+        <div class="article-browse-mobile-nav-inner js-mobile-nav-inner">
+            <button class="toggle-left-col toggle-left-col__article btn-as-link">
+                Article Navigation
+            </button>
+        </div>
+    </div>
+    <div class="content-inner-wrap">
+    <div class="widget widget-ArticleTopInfo widget-instance-OUP_ArticleTop_Info_Widget">
+        <div class="module-widget article-top-widget">
+
+    
+
+    
+        <div class="access-state-logos all-viewports">
+                    <span class="article-pubstate article-flag"></span>
+
+        </div>
+
+
+    <div class="widget-items">
+                <h1 class="wi-article-title article-title-main">
+                    Molecular Diagnosis of a Novel Coronavirus (2019-nCoV) Causing an Outbreak of Pneumonia
+<i class='icon-availability_free' title='Free' ></i>                </h1>
+                <div class="wi-authors">
+                    <div class="al-authors-list">
+                            <div class="meta-authors--limited">
+                                <span class="al-author-name">
+
+
+
+                                    <span class="al-author-info-wrap arrow-up">
+
+
+<div id="authorInfo_OUP_ArticleTop_Info_Widget" class="info-card-author">
+    <div class="name-role-wrap">
+        <div class="info-card-name">Daniel K W Chu</div>
+    </div>
+
+        <div class="info-card-affilitation">
+            <div class="aff"><div class="insititution">School of Public Health, LKS Faculty of Medicine, The University of Hong Kong</div>, <div class="country">Hong Kong</div></div>
+        </div>
+
+
+
+
+
+        <div class="info-card-search-label">
+            Search for other works by this author on:
+        </div>
+            <div class="info-card-search info-card-search-oxford">
+                <a href="/clinchem/search-results?f_Authors=Daniel+K+W+Chu">Oxford Academic</a>
+            </div>
+            <div class="info-card-search info-card-search-google">
+                <a href="http://scholar.google.com/scholar?q=author:&quot;Chu Daniel K W&quot;">Google Scholar</a>
+            </div>
+
+</div>
+                                    </span>
+
+
+
+                                    <a class="linked-name" href="javascript:;">Daniel K W Chu</a><span class='delimiter'>, </span>
+                                </span>
+                                <span class="al-author-name">
+
+
+
+                                    <span class="al-author-info-wrap arrow-up">
+
+
+<div id="authorInfo_OUP_ArticleTop_Info_Widget" class="info-card-author">
+    <div class="name-role-wrap">
+        <div class="info-card-name">Yang Pan</div>
+    </div>
+
+        <div class="info-card-affilitation">
+            <div class="aff"><div class="insititution">Beijing Center for Disease Prevention and Control</div>, Beijing, <div class="country">China</div></div><div class="aff"><div class="insititution">Beijing Research Center for Preventive Medicine</div>, Beijing, <div class="country">China</div></div><div class="aff"><div class="insititution">School of Public Health, Capital Medical University</div>, Beijing, <div class="country">China</div></div>
+        </div>
+
+
+
+
+
+        <div class="info-card-search-label">
+            Search for other works by this author on:
+        </div>
+            <div class="info-card-search info-card-search-oxford">
+                <a href="/clinchem/search-results?f_Authors=Yang+Pan">Oxford Academic</a>
+            </div>
+            <div class="info-card-search info-card-search-google">
+                <a href="http://scholar.google.com/scholar?q=author:&quot;Pan Yang&quot;">Google Scholar</a>
+            </div>
+
+</div>
+                                    </span>
+
+
+
+                                    <a class="linked-name" href="javascript:;">Yang Pan</a><span class='delimiter'>, </span>
+                                </span>
+                                <span class="al-author-name">
+
+
+
+                                    <span class="al-author-info-wrap arrow-up">
+
+
+<div id="authorInfo_OUP_ArticleTop_Info_Widget" class="info-card-author">
+    <div class="name-role-wrap">
+        <div class="info-card-name">Samuel M S Cheng</div>
+    </div>
+
+        <div class="info-card-affilitation">
+            <div class="aff"><div class="insititution">School of Public Health, LKS Faculty of Medicine, The University of Hong Kong</div>, <div class="country">Hong Kong</div></div>
+        </div>
+
+
+
+
+
+        <div class="info-card-search-label">
+            Search for other works by this author on:
+        </div>
+            <div class="info-card-search info-card-search-oxford">
+                <a href="/clinchem/search-results?f_Authors=Samuel+M+S+Cheng">Oxford Academic</a>
+            </div>
+            <div class="info-card-search info-card-search-google">
+                <a href="http://scholar.google.com/scholar?q=author:&quot;Cheng Samuel M S&quot;">Google Scholar</a>
+            </div>
+
+</div>
+                                    </span>
+
+
+
+                                    <a class="linked-name" href="javascript:;">Samuel M S Cheng</a><span class='delimiter'>, </span>
+                                </span>
+                                <span class="al-author-name">
+
+
+
+                                    <span class="al-author-info-wrap arrow-up">
+
+
+<div id="authorInfo_OUP_ArticleTop_Info_Widget" class="info-card-author">
+    <div class="name-role-wrap">
+        <div class="info-card-name">Kenrie P Y Hui</div>
+    </div>
+
+        <div class="info-card-affilitation">
+            <div class="aff"><div class="insititution">School of Public Health, LKS Faculty of Medicine, The University of Hong Kong</div>, <div class="country">Hong Kong</div></div>
+        </div>
+
+
+
+
+
+        <div class="info-card-search-label">
+            Search for other works by this author on:
+        </div>
+            <div class="info-card-search info-card-search-oxford">
+                <a href="/clinchem/search-results?f_Authors=Kenrie+P+Y+Hui">Oxford Academic</a>
+            </div>
+            <div class="info-card-search info-card-search-google">
+                <a href="http://scholar.google.com/scholar?q=author:&quot;Hui Kenrie P Y&quot;">Google Scholar</a>
+            </div>
+
+</div>
+                                    </span>
+
+
+
+                                    <a class="linked-name" href="javascript:;">Kenrie P Y Hui</a><span class='delimiter'>, </span>
+                                </span>
+                                <span class="al-author-name">
+
+
+
+                                    <span class="al-author-info-wrap arrow-up">
+
+
+<div id="authorInfo_OUP_ArticleTop_Info_Widget" class="info-card-author">
+    <div class="name-role-wrap">
+        <div class="info-card-name">Pavithra Krishnan</div>
+    </div>
+
+        <div class="info-card-affilitation">
+            <div class="aff"><div class="insititution">School of Public Health, LKS Faculty of Medicine, The University of Hong Kong</div>, <div class="country">Hong Kong</div></div>
+        </div>
+
+
+
+
+
+        <div class="info-card-search-label">
+            Search for other works by this author on:
+        </div>
+            <div class="info-card-search info-card-search-oxford">
+                <a href="/clinchem/search-results?f_Authors=Pavithra+Krishnan">Oxford Academic</a>
+            </div>
+            <div class="info-card-search info-card-search-google">
+                <a href="http://scholar.google.com/scholar?q=author:&quot;Krishnan Pavithra&quot;">Google Scholar</a>
+            </div>
+
+</div>
+                                    </span>
+
+
+
+                                    <a class="linked-name" href="javascript:;">Pavithra Krishnan</a><span class='delimiter'>, </span>
+                                </span>
+                                <span class="al-author-name">
+
+
+
+                                    <span class="al-author-info-wrap arrow-up">
+
+
+<div id="authorInfo_OUP_ArticleTop_Info_Widget" class="info-card-author">
+    <div class="name-role-wrap">
+        <div class="info-card-name">Yingzhi Liu</div>
+    </div>
+
+        <div class="info-card-affilitation">
+            <div class="aff"><div class="insititution">School of Public Health, LKS Faculty of Medicine, The University of Hong Kong</div>, <div class="country">Hong Kong</div></div>
+        </div>
+
+
+
+
+
+        <div class="info-card-search-label">
+            Search for other works by this author on:
+        </div>
+            <div class="info-card-search info-card-search-oxford">
+                <a href="/clinchem/search-results?f_Authors=Yingzhi+Liu">Oxford Academic</a>
+            </div>
+            <div class="info-card-search info-card-search-google">
+                <a href="http://scholar.google.com/scholar?q=author:&quot;Liu Yingzhi&quot;">Google Scholar</a>
+            </div>
+
+</div>
+                                    </span>
+
+
+
+                                    <a class="linked-name" href="javascript:;">Yingzhi Liu</a><span class='delimiter'>, </span>
+                                </span>
+                                <span class="al-author-name">
+
+
+
+                                    <span class="al-author-info-wrap arrow-up">
+
+
+<div id="authorInfo_OUP_ArticleTop_Info_Widget" class="info-card-author">
+    <div class="name-role-wrap">
+        <div class="info-card-name">Daisy Y M Ng</div>
+    </div>
+
+        <div class="info-card-affilitation">
+            <div class="aff"><div class="insititution">School of Public Health, LKS Faculty of Medicine, The University of Hong Kong</div>, <div class="country">Hong Kong</div></div>
+        </div>
+
+
+
+
+
+        <div class="info-card-search-label">
+            Search for other works by this author on:
+        </div>
+            <div class="info-card-search info-card-search-oxford">
+                <a href="/clinchem/search-results?f_Authors=Daisy+Y+M+Ng">Oxford Academic</a>
+            </div>
+            <div class="info-card-search info-card-search-google">
+                <a href="http://scholar.google.com/scholar?q=author:&quot;Ng Daisy Y M&quot;">Google Scholar</a>
+            </div>
+
+</div>
+                                    </span>
+
+
+
+                                    <a class="linked-name" href="javascript:;">Daisy Y M Ng</a><span class='delimiter'>, </span>
+                                </span>
+                                <span class="al-author-name">
+
+
+
+                                    <span class="al-author-info-wrap arrow-up">
+
+
+<div id="authorInfo_OUP_ArticleTop_Info_Widget" class="info-card-author">
+    <div class="name-role-wrap">
+        <div class="info-card-name">Carrie K C Wan</div>
+    </div>
+
+        <div class="info-card-affilitation">
+            <div class="aff"><div class="insititution">School of Public Health, LKS Faculty of Medicine, The University of Hong Kong</div>, <div class="country">Hong Kong</div></div>
+        </div>
+
+
+
+
+
+        <div class="info-card-search-label">
+            Search for other works by this author on:
+        </div>
+            <div class="info-card-search info-card-search-oxford">
+                <a href="/clinchem/search-results?f_Authors=Carrie+K+C+Wan">Oxford Academic</a>
+            </div>
+            <div class="info-card-search info-card-search-google">
+                <a href="http://scholar.google.com/scholar?q=author:&quot;Wan Carrie K C&quot;">Google Scholar</a>
+            </div>
+
+</div>
+                                    </span>
+
+
+
+                                    <a class="linked-name" href="javascript:;">Carrie K C Wan</a><span class='delimiter'>, </span>
+                                </span>
+                                <span class="al-author-name">
+
+
+
+                                    <span class="al-author-info-wrap arrow-up">
+
+
+<div id="authorInfo_OUP_ArticleTop_Info_Widget" class="info-card-author">
+    <div class="name-role-wrap">
+        <div class="info-card-name">Peng Yang</div>
+    </div>
+
+        <div class="info-card-affilitation">
+            <div class="aff"><div class="insititution">Beijing Center for Disease Prevention and Control</div>, Beijing, <div class="country">China</div></div><div class="aff"><div class="insititution">Beijing Research Center for Preventive Medicine</div>, Beijing, <div class="country">China</div></div><div class="aff"><div class="insititution">School of Public Health, Capital Medical University</div>, Beijing, <div class="country">China</div></div>
+        </div>
+
+
+
+
+
+        <div class="info-card-search-label">
+            Search for other works by this author on:
+        </div>
+            <div class="info-card-search info-card-search-oxford">
+                <a href="/clinchem/search-results?f_Authors=Peng+Yang">Oxford Academic</a>
+            </div>
+            <div class="info-card-search info-card-search-google">
+                <a href="http://scholar.google.com/scholar?q=author:&quot;Yang Peng&quot;">Google Scholar</a>
+            </div>
+
+</div>
+                                    </span>
+
+
+
+                                    <a class="linked-name" href="javascript:;">Peng Yang</a><span class='delimiter'>, </span>
+                                </span>
+                                <span class="al-author-name">
+
+
+
+                                    <span class="al-author-info-wrap arrow-up">
+
+
+<div id="authorInfo_OUP_ArticleTop_Info_Widget" class="info-card-author">
+    <div class="name-role-wrap">
+        <div class="info-card-name">Quanyi Wang</div>
+    </div>
+
+        <div class="info-card-affilitation">
+            <div class="aff"><div class="insititution">Beijing Center for Disease Prevention and Control</div>, Beijing, <div class="country">China</div></div><div class="aff"><div class="insititution">Beijing Research Center for Preventive Medicine</div>, Beijing, <div class="country">China</div></div>
+        </div>
+
+
+
+
+
+        <div class="info-card-search-label">
+            Search for other works by this author on:
+        </div>
+            <div class="info-card-search info-card-search-oxford">
+                <a href="/clinchem/search-results?f_Authors=Quanyi+Wang">Oxford Academic</a>
+            </div>
+            <div class="info-card-search info-card-search-google">
+                <a href="http://scholar.google.com/scholar?q=author:&quot;Wang Quanyi&quot;">Google Scholar</a>
+            </div>
+
+</div>
+                                    </span>
+
+
+
+                                    <a class="linked-name" href="javascript:;">Quanyi Wang</a><span class='delimiter-hidden'>, </span>
+                                </span>
+                                    <a class="meta-authors--etal is-active" id="show-meta-authors" aria-controls="remaining-authors" href="#">
+                                        <span>...</span> Show more
+                                    </a>
+                                    <div id="remaining-authors" class="meta-authors--remaining" aria-hidden="true" aria-labeledby="show-meta-authors">
+                                        <span class="al-author-name-more">
+
+                                            <span class="al-author-info-wrap arrow-up">
+
+
+<div id="authorInfo_OUP_ArticleTop_Info_Widget" class="info-card-author">
+    <div class="name-role-wrap">
+        <div class="info-card-name">Malik Peiris</div>
+    </div>
+
+        <div class="info-card-affilitation">
+            <div class="aff"><div class="insititution">School of Public Health, LKS Faculty of Medicine, The University of Hong Kong</div>, <div class="country">Hong Kong</div></div>
+        </div>
+
+
+
+
+
+        <div class="info-card-search-label">
+            Search for other works by this author on:
+        </div>
+            <div class="info-card-search info-card-search-oxford">
+                <a href="/clinchem/search-results?f_Authors=Malik+Peiris">Oxford Academic</a>
+            </div>
+            <div class="info-card-search info-card-search-google">
+                <a href="http://scholar.google.com/scholar?q=author:&quot;Peiris Malik&quot;">Google Scholar</a>
+            </div>
+
+</div>
+                                            </span>
+  
+                                            
+                                            <a class="linked-name" href="javascript:;">Malik Peiris</a><span class='delimiter'>, </span>
+                                        </span>
+                                        <span class="al-author-name-more">
+
+                                            <span class="al-author-info-wrap arrow-up">
+
+
+<div id="authorInfo_OUP_ArticleTop_Info_Widget" class="info-card-author">
+    <div class="name-role-wrap">
+        <div class="info-card-name">Leo L M Poon</div>
+    </div>
+
+        <div class="info-card-affilitation">
+            <div class="aff"><div class="insititution">School of Public Health, LKS Faculty of Medicine, The University of Hong Kong</div>, <div class="country">Hong Kong</div></div>
+        </div>
+
+
+        <div class="info-author-correspondence">
+            Address correspondence to this author at: School of Public Health, LKS Faculty of Medicine, The University of Hong Kong, Hong Kong SAR, China. Fax 852-28551241; e-mail <a href="mailto:llmpoon@hku.hk" target="_blank">llmpoon@hku.hk</a>.
+        </div>
+
+
+
+        <div class="info-card-search-label">
+            Search for other works by this author on:
+        </div>
+            <div class="info-card-search info-card-search-oxford">
+                <a href="/clinchem/search-results?f_Authors=Leo+L+M+Poon">Oxford Academic</a>
+            </div>
+            <div class="info-card-search info-card-search-google">
+                <a href="http://scholar.google.com/scholar?q=author:&quot;Poon Leo L M&quot;">Google Scholar</a>
+            </div>
+
+</div>
+                                            </span>
+  
+                                            
+                                            <a class="linked-name" href="javascript:;">Leo L M Poon</a><span class='delimiter'></span>
+                                        </span>
+                                    </div>
+                            </div>
+
+                            <div class="al-author-name al-author-footnotes">
+                                <div class="al-author-info-wrap arrow-up">
+    <div class="widget widget-SingleSection widget-instance-OUP_FootnoteSection">
+        <div content-id="hvaa029-FM1"><div class="fn"><div class="footnote-content"> Daniel K.W. Chu and Yang Pan with equal contribution.</div></div></div> 
+    </div>
+    <div class="widget widget-SingleSection widget-instance-OUP_FootnoteSection">
+        <div content-id="hvaa029-FM2"><div class="fn"><div class="footnote-content"> Joint senior authors with equal contribution.</div></div></div> 
+    </div>
+                                </div>
+                                <a class="js-linked-footnotes" href="javascript:;">Author Notes</a>
+                            </div>
+                    </div>
+                </div>
+<div class="pub-history-wrap clearfix">
+
+        <div class="pub-history-row clearfix">
+            <div class="ww-citation-primary"><em>Clinical Chemistry</em>, hvaa029, <a href='https://doi.org/10.1093/clinchem/hvaa029'>https://doi.org/10.1093/clinchem/hvaa029</a></div>
+        </div>
+        <div class="pub-history-row clearfix">
+            <div class="ww-citation-date-wrap">
+                <div class="citation-label">Published:</div>
+                <div class="citation-date">31 January 2020</div>
+            </div>
+                <a href="javascript:;" class="ww-citation-history-wrap js-article-history st-article-history">
+                    <span>Article history</span><i class="icon-general-arrow-filled-down arrow-icon"></i>
+                </a>
+        </div>
+            <div class="history-entries-wrap js-history-entries-wrap">
+                <div class="history-entry">
+                    <div class="wi-state">Received:</div>
+                    <div class="wi-date">22 January 2020</div>
+                </div>
+                <div class="history-entry">
+                    <div class="wi-state">Accepted:</div>
+                    <div class="wi-date">27 January 2020</div>
+                </div>
+                <div class="history-entry">
+                    <div class="wi-state">Published:</div>
+                    <div class="wi-date">31 January 2020</div>
+                </div>
+        </div>
+</div>
+    </div>
+</div>
+
+<script>
+    $(document).ready(function () {
+        $('.article-top-widget').on('click', '.ati-toggle-trigger', function () {
+            $(this).find('.icon-general-add, .icon-minus').toggleClass('icon-minus icon-general-add');
+            $(this).siblings('.ati-toggle-content').toggleClass('hide');
+        });
+
+        // In Chrome, an anchor tag with target="_blank" and a "mailto:" href opens a new tab/window as well as the email client
+        // I suspect this behavior will be corrected in the future
+        // Remove the target="_blank"
+        $('ul.wi-affiliationList').find('a[href^="mailto:"]').each(function () {
+            $(this).removeAttr('target');
+        });
+    });
+</script>
+
+ 
+    </div>
+    <div class="widget widget-ArticleLinks widget-instance-OUP_Article_Links_Widget">
+         
+    </div>
+
+
+        <div class="article-body js-content-body">
+            <div class="toolbar-wrap js-toolbar-wrap">
+                <div class="toolbar-inner-wrap">
+                    <ul id="Toolbar" role="navigation">
+    <li class="toolbar-item item-pdf">
+        <a class="al-link pdf article-pdfLink" data-article-id="5719336" href="/clinchem/advance-article-pdf/doi/10.1093/clinchem/hvaa029/32373549/hvaa029.pdf">
+            <img src=//oup.silverchair-cdn.com/UI/app/svg/pdf.svg alt="pdf" /><span class="pdf-link-text">PDF</span>
+        </a>
+    </li>
+                                                    <li class="toolbar-item item-link item-split-view">
+                                <a href="javascript:;"
+                                   class="split-view js-split-view st-split-view"
+                                   target="">
+                                    <i class="icon-menu_split"></i>
+                                    Split View
+                                </a>
+                            </li>
+                        <li class="toolbar-item item-with-dropdown item-views">
+                            <a class="drop-trigger" href="javascript:;" data-dropdown="FilterDrop" aria-haspopup="true">
+                                <i class="icon-menu_views"></i>
+                                <div class="toolbar-label">
+                                    <div class="toolbar-text">Views</div>
+                                    <i class="icon-general-arrow-filled-down arrow-icon"></i>
+                                </div>
+                            </a>
+                            <ul id="ViewsDrop" class="f-dropdown" data-dropdown-content aria-label="submenu">
+                                <div class="arrow-up"></div>
+                                <li class="article-content-filter js-article-content-filter" data-content-filter="article-content">
+                                    <a href="javascript:;"><span>Article contents</span></a>
+                                </li>
+                                <li class="article-content-filter js-article-content-filter" data-content-filter="figures-tables">
+                                    <a href="javascript:;"><span>Figures &amp; tables</span></a>
+                                </li>
+                                <li class="article-content-filter js-article-content-filter" data-content-filter="video">
+                                    <a href="javascript:;"><span>Video</span></a>
+                                </li>
+                                <li class="article-content-filter js-article-content-filter" data-content-filter="audio">
+                                    <a href="javascript:;"><span>Audio</span></a>
+                                </li>
+                                <li class="article-content-filter js-article-content-filter" data-content-filter="supplementary-data">
+                                    <a href="javascript:;"><span>Supplementary Data</span></a>
+                                </li>
+                            </ul>
+                        </li>
+                        <li class="toolbar-item">
+    <div class="widget widget-ToolboxGetCitation widget-instance-OUP_Get_Citation">
+        <a href="#" class="js-cite-button" data-reveal-id="getCitation" data-reveal><i class="icon-read-more"></i><span>Cite</span></a>
+
+<div id="getCitation" class="reveal-modal" data-reveal>
+    <h3 class="modal-title">Cite</h3>
+        <div class="oxford-citation-text">
+            <p>Daniel K W Chu, Yang Pan, Samuel M S Cheng, Kenrie P Y Hui, Pavithra Krishnan, Yingzhi Liu, Daisy Y M Ng, Carrie K C Wan, Peng Yang, Quanyi Wang, Malik Peiris, Leo L M Poon,  Molecular Diagnosis of a Novel Coronavirus (2019-nCoV) Causing an Outbreak of Pneumonia, <em>Clinical Chemistry</em>, , hvaa029, <a href='https://doi.org/10.1093/clinchem/hvaa029'>https://doi.org/10.1093/clinchem/hvaa029</a></p>
+        </div>
+
+    <div class="citation-download-wrap">
+        <form action="/Citation/Download" method="get" id="citationModal">
+            <input type="hidden" name="resourceId" value="5719336" />
+            <input type="hidden" name="resourceType" value="3" />
+            <label for="selectFormat" class="hide">Select Format</label>
+            <select required name="citationFormat" class="citation-download-format" id="selectFormat">
+                <option selected disabled >Select format</option>
+                        <option value="0" >.ris (Mendeley, Papers, Zotero)</option>
+                        <option value="1" >.enw (EndNote)</option>
+                        <option value="2" >.bibtex (BibTex)</option>
+                        <option value="3" >.txt (Medlars, RefWorks)</option>
+
+            </select>
+            <button class="btn citation-download-link disabled" type="submit">Download citation</button>
+        </form>
+    </div>
+
+    <a class="close-reveal-modal" href="javascript:;"><i class="icon-general-close"></i><span class="screenreader-text">Close</span></a>
+</div>
+ 
+    </div>
+
+                        </li>
+                        <li class="toolbar-item item-tools">
+    <div class="widget widget-ToolboxPermissions widget-instance-">
+            <div class="module-widget">
+        <a href="https://s100.copyright.com/AppDispatchServlet?publisherName=OUP&amp;publication=1530-8561&amp;title=Molecular%20Diagnosis%20of%20a%20Novel%20Coronavirus%20(2019-nCoV)%20Causing%20an%20Outbreak%20of%20Pneumonia&amp;publicationDate=2020-01-31&amp;volumeNum=&amp;issueNum=&amp;author=Chu%2C%20Daniel%20K%20W%3B%20Pan%2C%20Yang&amp;startPage=1&amp;endPage=7&amp;contentId=10.1093%2Fclinchem%2Fhvaa029&amp;oa=&amp;copyright=Oxford%20University%20Press&amp;orderBeanReset=True" id="PermissionsLink" class="" target="_blank">
+            <i class="icon-menu_permissions">
+                <span class="screenreader-text">Permissions Icon</span>
+            </i>
+            Permissions
+        </a>
+    </div>
+ 
+    </div>
+
+                        </li>
+                        <li class="toolbar-item item-with-dropdown item-share last">
+                            <a class="drop-trigger" href="javascript:;" data-dropdown="ShareDrop" aria-haspopup="true">
+                                <i class="icon-menu_share"></i>
+                                <div class="toolbar-label">
+                                    <div class="toolbar-text">Share</div>
+                                    <i class="icon-general-arrow-filled-down arrow-icon"></i>
+                                </div>
+                            </a>
+                            <ul id="ShareDrop" class="addthis_toolbox addthis_default_style addthis_20x20_style f-dropdown" data-dropdown-content aria-label="submenu">
+                                <div class="arrow-up"></div>
+                                <li><a class="addthis_button_email"><span>Email</span></a></li>
+                                <li><a class="addthis_button_twitter"><span>Twitter</span></a></li>
+                                <li><a class="addthis_button_facebook"><span>Facebook</span></a></li>
+                                <li><a class="addthis_button_compact"><span>More</span></a></li>
+                            </ul>
+                        </li>
+                    </ul>
+                    <div class="toolbar-search">
+    <div class="widget widget-SitePageHeader widget-instance-OUP_ArticleToolbarSearchBox">
+        
+
+
+<div class="dropdown-panel-wrap">
+
+    
+    <div class="dropdown-panel mobile-search-dropdown">
+        <div class="mobile-search-inner-wrap">
+            <div class="navbar-search">
+                <div id="MobileMicrositeSearch" class="mobile-microsite-search">
+                    <label for="mobile-navbar-search-filter" class="screenreader-text">Navbar Search Filter</label>
+                    <select class="navbar-search-filter" id="mobile-navbar-search-filter">
+                                                    <optgroup label="Search within this journal">
+<option class="header-search-bar-filters-item" value="">All  Clinical Chemistry</option>
+                            </optgroup>
+                            <optgroup label="Search beyond this journal">
+<option class="header-search-bar-filters-item" value="Parent">All  AACC Journals</option><option class="header-search-bar-filters-item" value="Journals">All  Journals</option>                            </optgroup>
+                    </select>
+
+
+
+
+
+                    <label for="MobileMicrositeSearchTerm" class="screenreader-text">Mobile Microsite Search Term</label>
+                    <input class="mobile-search-input mobile-microsite-search-term" type="text" maxlength="255" placeholder="Search" id="MobileMicrositeSearchTerm">
+
+                    <a href="javascript:;" id="MobileMicrositeSearchIcon" class="mobile-microsite-search-icon mobile-search-submit icon-menu_search"><span class="screenreader-text">Search</span></a>
+
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <div class="dropdown-panel mobile-account-dropdown">
+        <ul class="site-menu site-menu-lvl-0">
+            <li class="site-menu-item site-menu-lvl-0">
+                <a href="" class="nav-link mobile-account-signin dummy-link" id="header-account-info-user-fullname">
+                    
+Sign In                    <i class="mobile-nav-arrow icon-general_arrow-down"></i>
+                </a>
+                <ul class="site-menu site-menu-lvl-1 individual-menu">
+                    <li class="dropdown-signin-form">
+                        <div class="spinner"></div>
+                    </li>
+                </ul>
+            </li>
+                <li class="site-menu-item site-menu-lvl-0">
+                        <a href="javascript:;" class="nav-link mobile-account-institution dummy-link">
+                            Humbolt Universitaet
+                        </a>
+
+                    <i class="mobile-nav-arrow icon-general_arrow-down"></i>
+                    <ul class="site-menu site-menu-lvl-1">
+                            <li class="dropdown-institution-item">
+
+Humbolt Universitaet
+                            </li>
+
+                        <li class="dropdown-institution-signout">
+                        </li>
+                    </ul>
+                </li>
+                            <li class="site-menu-item">
+                    <a href="/my-account/register?siteId=6246&amp;returnUrl=%2fclinchem%2fadvance-article%2fdoi%2f10.1093%2fclinchem%2fhvaa029%2f5719336" class="register nav-link">Register</a>
+                </li>
+        </ul>
+    </div>
+    
+    <div class="dropdown-panel mobile-nav-dropdown">
+
+    </div>
+
+</div>
+
+
+
+<div class="navbar">
+    <div class="center-inner-row">
+        <nav class="navbar-menu">
+
+        </nav>
+            <div class="navbar-search-container">
+                <a href="javascript:;" class="navbar-search-close js_close-navsearch">Close</a>
+                <div class="navbar-search">
+                    <div id="MicrositeSearch" class="microsite-search">
+                        <label for="navbar-search-filter" class="screenreader-text">search filter</label>
+                        <select class="navbar-search-filter" id="navbar-search-filter">
+                                                            <optgroup label="Search within this journal">
+                                            <option class="header-search-bar-filters-item" value="" selected=&quot;selected&quot;>All  Clinical Chemistry</option>
+
+                                </optgroup>
+                                <optgroup label="Search beyond this journal">
+                                            <option class="header-search-bar-filters-item" value="Parent" >All  AACC Journals</option>
+                                            <option class="header-search-bar-filters-item" value="Journals" >All  Journals</option>
+                                </optgroup>
+                        </select>
+
+                        <label for="MicrositeSearchTerm" class="screenreader-text">search input</label>
+                        <input class="navbar-search-input microsite-search-term" type="text" maxlength="255" id="MicrositeSearchTerm" title="search input">
+
+                        <a href="javascript:;" id="MicrositeSearchIcon" class="microsite-search-icon navbar-search-submit icon-menu_search"><span class="screenreader-text">Search</span></a>
+
+                    </div>
+                </div>
+                <div class="navbar-search-advanced"><a href="/clinchem/advanced-search" class="advanced-search js-advanced-search">Advanced Search</a></div>
+            </div>            <div class="navbar-search-collapsed"><a href="javascript:;" class="icon-menu_search js_expand-navsearch"><span class="screenreader-text">Search Menu</span></a></div>
+    </div>
+</div>
+
+<input id="hfEnableOupOnlineProductsFeatures" name="hfEnableOupOnlineProductsFeatures" type="hidden" value="False" />
+
+<input id="routename" name="RouteName" type="hidden" value="clinchem" /> 
+    </div>
+
+                    </div>
+                </div>
+            </div>
+            <div id="ContentTab" class="content active">
+    <div class="widget widget-ArticleFulltext widget-instance-OUP_Article_FullText_Widget">
+        <div class="module-widget">
+    <div class="widget-items" data-widgetname="ArticleFulltext">
+
+
+
+
+
+                    <h2 scrollto-destination=198623084 id="198623084" class="abstract-title" >Abstract</h2>
+<section class="abstract"><div class="sec"><div class="title">Background</div><p>A novel coronavirus of zoonotic origin (2019-nCoV) has recently been identified in patients with acute respiratory disease. This virus is genetically similar to SARS coronavirus and bat SARS-like coronaviruses. The outbreak was initially detected in Wuhan, a major city of China, but has subsequently been detected in other provinces of China. Travel-associated cases have also been reported in a few other countries. Outbreaks in health care workers indicate human-to-human transmission. Molecular tests for rapid detection of this virus are urgently needed for early identification of infected patients.</p></div><div class="js-collapsableEnd"></div><div class="sec"><div class="title">Methods</div><p>We developed two 1-step quantitative real-time reverse-transcription PCR assays to detect two different regions (ORF1b and N) of the viral genome. The primer and probe sets were designed to react with this novel coronavirus and its closely related viruses, such as SARS coronavirus. These assays were evaluated using a panel of positive and negative controls. In addition, respiratory specimens from two 2019-nCoV-infected patients were tested.</p></div><div class="js-collapsableEnd"></div><div class="sec"><div class="title">Results</div><p>Using RNA extracted from cells infected by SARS coronavirus as a positive control, these assays were shown to have a dynamic range of at least seven orders of magnitude (2x10<sup>−4</sup>-2000 TCID<sub>50</sub>/reaction). Using DNA plasmids as positive standards, the detection limits of these assays were found to be below 10 copies per reaction. All negative control samples were negative in the assays. Samples from two 2019-nCoV-infected patients were positive in the tests.</p></div><div class="js-collapsableEnd"></div><div class="sec"><div class="title">Conclusions</div><p>The established assays can achieve a rapid detection of 2019n-CoV in human samples, thereby allowing early identification of patients.</p></div><div class="js-collapsableEnd"></div></section>                        <div class="article-metadata-panel clearfix"></div>
+                    <h2 scrollto-destination=198623085 id="198623085" class="section-title" >Introduction</h2>
+<p>Coronaviruses can be classified into 4 genera (α, β, γ, and δ) and these viruses are detected in a wide range of animal species, including humans <em>(</em><a reveal-id="hvaa029-B1" data-open="hvaa029-B1" class="link link-ref link-reveal xref-bibr">1</a>,<em>)</em>. There are 6 previously known human coronaviruses that can be transmitted between humans. Human alphacoronaviruses, 229E and NL63, and betacoronaviruses, OC43 and HKU1, are common respiratory viruses usually causing mild upper respiratory diseases. In contrast to these, the other 2 human beta-coronaviruses, SARS and MERS coronaviruses, are highly pathogenic in humans. The case fatality rates of SARS and MERS are about 10% and 35%, respectively <em>(</em><a reveal-id="hvaa029-B2" data-open="hvaa029-B2" class="link link-ref link-reveal xref-bibr">2</a>, <a reveal-id="hvaa029-B3" data-open="hvaa029-B3" class="link link-ref link-reveal xref-bibr">3</a>,<em>)</em>. SARS and MERS can be transmitted between humans and may cause major outbreaks in health care settings or in community settings. Both SARS and MERS coronaviruses are of zoonotic origins. MERS coronavirus is widely circulated in dromedary camels. Over 90% of dromedary camels in Middle East countries are seropositive for MERS coronavirus <em>(</em><a reveal-id="hvaa029-B4" data-open="hvaa029-B4" class="link link-ref link-reveal xref-bibr">4</a>, <a reveal-id="hvaa029-B5" data-open="hvaa029-B5" class="link link-ref link-reveal xref-bibr">5</a>,<em>)</em>. Because of such a high prevalence in this animal species, sporadic zoonotic transmissions of MERS coronavirus from camels to humans have been repeatedly detected in the affected region since its discovery in 2012. For the SARS outbreak in 2003, exotic mammals in wet markets, such as palm civets and raccoon dogs, are believed to be the animal sources of the virus <em>(</em><a reveal-id="hvaa029-B6" data-open="hvaa029-B6" class="link link-ref link-reveal xref-bibr">6</a>,<em>)</em>. The detection of SARS coronavirus in these species led to a temporary ban of selling of these animals in 2004, thereby preventing additional spill-over events from animals to humans. But further surveillance studies indicated that these animals are rarely positive for SARS coronavirus in non-market settings, suggesting that they only served as intermediate hosts in the SARS event <em>(</em><a reveal-id="hvaa029-B1" data-open="hvaa029-B1" class="link link-ref link-reveal xref-bibr">1</a>, <a reveal-id="hvaa029-B7" data-open="hvaa029-B7" class="link link-ref link-reveal xref-bibr">7</a>,<em>)</em>. Subsequent virus surveillances in wild animals identified a vast number of coronaviruses in bats <em>(</em><a reveal-id="hvaa029-B8" data-open="hvaa029-B8" class="link link-ref link-reveal xref-bibr">8</a>,<em>)</em>. Interestingly, several bat coronaviruses that are genetically similar to human SARS coronavirus were detected in horseshoe bats. This group of SARS-like bat coronaviruses, together with SARS coronavirus, form a unique clade under the subgenus <em>Sarbecovirus</em>. It is now generally believed that SARS coronavirus is a recombinant virus between several bat SARS-like beta-coronaviruses <em>(</em><a reveal-id="hvaa029-B9" data-open="hvaa029-B9" class="link link-ref link-reveal xref-bibr">9</a>,<em>)</em>. Some of these bat coronaviruses are experimentally capable of infecting human cells in cultures <em>(</em><a reveal-id="hvaa029-B9" data-open="hvaa029-B9" class="link link-ref link-reveal xref-bibr">9</a><em>)</em>, suggesting that these animal viruses and their recombinants can pose threats to human health.</p><p>In December 2019, a cluster of atypical pneumonia patients epidemiologically linked to a wholesale market in Wuhan was detected <em>(</em><a reveal-id="hvaa029-B10" data-open="hvaa029-B10" class="link link-ref link-reveal xref-bibr">10</a>,<em>)</em>. A novel beta-coronavirus named as 2019-novel coronavirus (2019-nCoV) has been identified in some of these patients. This virus is genetically similar to a bat virus in the subgenus <em>Sarbecovirus (</em><a reveal-id="hvaa029-B11" data-open="hvaa029-B11" class="link link-ref link-reveal xref-bibr">11</a>,<em>)</em>. As of 22 January 2020, over 200 cases, including 4 fatal ones, have been detected in Wuhan and other provinces <em>(</em><a reveal-id="hvaa029-B12" data-open="hvaa029-B12" class="link link-ref link-reveal xref-bibr">12</a>,<em>)</em>. In addition, confirmed patients with a recent travel history to Wuhan have been detected in multiple countries (Japan: 1, South Korea: 1, USA: 1, and Thailand: 2). Some of the confirmed cases have no epidemiological link to wet markets, suggesting the possibility of human-to-human transmissions and/or multiple spill-over events in different settings. At the time of preparing this article, a hospital outbreak had been reported <em>(</em><a reveal-id="hvaa029-B13" data-open="hvaa029-B13" class="link link-ref link-reveal xref-bibr">13</a><em>)</em>. The spectrum of this disease in humans is yet to be fully determined. Signs of infection are highly nonspecific, and these include respiratory symptoms, fever, cough, dyspnea, and viral pneumonia. Thus, diagnostic tests specific for this infection are urgently needed for confirming suspected cases, screening patients and conducting virus surveillance.</p><p>In this study, we report the development of RT-PCR assays to detect this novel virus in human clinical specimens.</p>                    <h2 scrollto-destination=198623089 id="198623089" class="section-title" >Materials and Methods</h2>
+                    <h3 scrollto-destination=198623090 id="198623090" class="section-title" >Primer and Probe Sequences</h3>
+<p>Two monoplex real-time RT-PCR assays targeting the ORF1b and N gene regions of 2019-nCoV were designed based on the first publicly available sequence in Genbank (Accession number: <a class="link link-gen" target="_blank" href="https://www.ncbi.nlm.nih.gov/nuccore/MN908947">MN908947</a>). The downloaded sequence and those for SARS coronavirus, bat SARS-like coronaviruses, and other representative coronaviruses were edited and aligned. Phylogenetic analyses of these sequences were performed using the neighbor joining method in MEGA X <em>(</em><a reveal-id="hvaa029-B14" data-open="hvaa029-B14" class="link link-ref link-reveal xref-bibr">14</a><em>)</em>. Two sequence regions (ORF1b and N) that are highly conserved amongst sarbecoviruses were selected for primer and probe designs. The primer and probe sequences for the ORF1b gene assay are: 5’-TGGGGYTTTACRGGTAACCT-3’ (Forward; Y = C/T, R = A/G), 5’-AACRCGCTTAACAAAGCACTC-3’ (Reverse; R = A/G) and 5′-TAGTTGTGATGCWATCATGACTAG-3′ (Probe in 5’-FAM/ZEN/3’-IBFQ format; W = A/T), whereas the primer and probe sequences for the N gene assay are: 5′-TAATCAGACAAGGAACTGATTA-3′ (Forward), 5′-CGAAGGTGTGACTTCCATG-3′ (Reverse) and 5′-GCAAATTGTGCAATTTGCGG-3′ (Probe in 5’-FAM/ZEN/3’-IBFQ format). The expected amplicon sizes of ORF1b and N gene assays are 132 bp and 110 bp, respectively. All primers and probes were purchased from a commercial source (Integrated DNA Technologies). The primer and probe sequences were subsequently confirmed to have perfect matches with other 2019-nCoV genome sequences available from Global Initiative on Sharing All Influenza Data (GISAID; <a class="link link-uri openInAnotherWindow" href="https://www.gisaid.org/" target="_blank">https://www.gisaid.org/</a>; Accession numbers: EPI_ISL_402119, EPI_ISL_402120, EPI_ISL_402121, EPI_ISL_402123 and EPI_ISL_402124; Accessed 12 Jan 2020).</p>                    <h3 scrollto-destination=198623092 id="198623092" class="section-title" >Quantitative RT-PCR Assay Condition</h3>
+<p>A typical 20 µL monoplex RT-PCR assay contained 5 μL of 4X master reaction mixture (TaqMan Fast Virus 1-Step Master Mix, ThermoFisher), 0.5 µmol/L of forward primer, 0.5 μmol/L of reverse primer, 0.25 μmo/L of probe, and 4 μl of RNA sample. RT-PCR reactions were conducted by a thermal cycler (ViiA7 Real-Time PCR system, ThermoFisher) with the following conditions: reverse transcription at 50°C for 5 min, inactivation of reverse transcriptase at 95°C for 20 s, 40 cycles of PCR amplification (Denaturing at 95°C for 5 s; Annealing/Extending at 60°C for 30 s). The time for each RT-PCR run was about 1 h and 15 min.</p><p>Viral RNA purification kit (QIAamp Viral RNA Mini Kit, Qiagen) and DNA plasmid purification kit (QIAprep Spin Miniprep Kit, Qiagen) were used for RNA and DNA extractions, respectively, as instructed by the manufacturer. For all RNA extractions, RNA was extracted from 140 µL of sample and eluted in 60 µL elution buffer containing poly(A) carrier RNA.</p>                    <h3 scrollto-destination=198623095 id="198623095" class="section-title" >Tested Samples</h3>
+<p>Viral RNA extracted from SARS coronavirus-infected cells was used for positive controls. In addition, the RT-PCR products of SARS coronavirus generated by the ORF1b and N gene assays were cloned into plasmids. Serially diluted RNA or DNA samples were used to evaluate the performance of these assays. To determine the specificity of these assays, negative control samples were tested. These negative control samples were: 1) RNA extracted from cultured viruses: human coronaviruses (229E, OC43, and MERS), camel coronavirus (HKU23), human influenza A viruses (H1N1, H3N2, H5N1, and H7N9 subtypes), avian influenza (H1, H4, H6, and H9 subtypes), influenza B viruses (Yamagata and Victoria lineages), and adenovirus, 2) RNA extracted from retrospective human respiratory specimens previously tested positive for coronavirus (229E, HKU1, NL63, OC43), influenza A viruses (H1N1 and H3N2 subtypes), influenza B viruses (Yamagata and Victoria lineages), adenovirus, enterovirus, human parainfluenza virus (PIV1, 2, 3 and 4), respiratory syncytial virus, human metapneumovirus, rhinovirus and human bocavirus, and 3) RNA extracted from sputum samples from patients without respiratory viral infections (<em>n</em> = 9). Culture supernatants of infected cells or clinical samples stored in standard virus transport media were subjected to a brief centrifugation (15,170 × g, 2 min) and 140 µL of supernatant from each sample was used for RNA extraction.</p><p>Two patients (Patients 1 and 2) suspected to be infected by 2019-nCoV in Beijing were included in this study. For Patient 1, a sputum sample was collected at day 5 post-onset of symptoms. The sputum sample stored in standard virus transport media was treated with an equal volume of Sputasol (ThermoFisher) before RNA extraction. For Patient 2, a throat swab sample was collected at day 3 post-onset of symptoms and stored in standard virus transport media. 140 µL of each aqueous sample was used for viral RNA extraction. Relevant clinical and epidemiological data for both patients were not accessible to this study. RNA extracted from these samples were serially diluted and tested by the assays.</p>                    <h2 scrollto-destination=198623098 id="198623098" class="section-title" >Results</h2>
+                    <h3 scrollto-destination=198623099 id="198623099" class="section-title" >Specificity of the Assays</h3>
+<p>At the time of preparing this assay, there was only one viral sequence available from the public domain. With such a limited sequence information, we decided to develop two RT-PCR assays that can react with multiple coronaviruses that are in the subgenus <em>Sarbecovirus</em> (<a reveal-id="hvaa029-F1" data-open="hvaa029-F1" class="link link-reveal link-table xref-fig">Fig. 1A;</a> see discussion). Using additional sequence information from this clade of coronaviruses, we selected highly conserved ORF1b and N gene regions as our targets (<a reveal-id="hvaa029-F1" data-open="hvaa029-F1" class="link link-reveal link-table xref-fig">Fig. 1B</a>). These designs allow the use of nucleic acids derived from SARS coronavirus as positive controls.</p>                        <a id="198623101" scrollto-destination="198623101"></a>
+<div id="hvaa029-F1" data-id="hvaa029-F1" class="fig fig-section"><div class="label fig-label">Fig. 1.</div><div class="graphic-wrap"><img class="content-image" src="https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/clinchem/PAP/10.1093_clinchem_hvaa029/2/m_hvaa029f1.png?Expires=1585274605&amp;Signature=ZH6QT-Go1DkH~0nrXl8D3HqdmFa5kD-dpEH3QsTk1CFVIZgjM4XA5C1fwuOhCrD1ep46QKmbCz1WW8rNClOmgrmLtl8B~~okaWt0J~860PQk00K4kKfz5gOxt7v2LhrFJFgJNCjD8P4JGinQnfL6IWEQ59En9Hconmyw7Hu-j~4SupjkMwHOfc59qFaHWbNheI4hZYPq2E-fAwraUg2xFQ5NMgyrlqCUoUZJn6ytDHsC0jCeva61oFLNuwriHjgpiwBeUtUMehr3MLYxMEOTM5yxdCfmrKGgAFllZNDy2OiXBbUl~XddUwfA-dMjAW1J34vKEOjao1dU9vMYCMoVDA__&amp;Key-Pair-Id=APKAIE5G5CRDK6RD3PGA" alt="Sequence analysis of 2019-nCoV. (A) Phylogenetics of 2019-nCoV and related sarbecoviruses. Representative α-, β-, γ-coronaviruses were included in the analysis. Bootstrap values ≥70% are shown. Gene accession numbers in GenBank for corresponding viral sequences are provided. Scale bar indicates estimated genetic distance. Human coronaviruses are in bold and 2019-nCoV is underlined. (B) Sequence alignment of ORF-1b (top) and N (bottom) amplicons generated from 2019-nCoV and SARS-CoV. Arrows indicate the regions targeted by the studied primers. Sequence variations between these viruses are shown. The expected amplicon sizes generated from ORF1b and N gene assays are 132 and 110 bp, respectively." path-from-xml="hvaa029f1.tif" /><div class="fig-orig original-slide"><a class="fig-view-orig js-view-large openInAnotherWindow" href="/view-large/figure/198623101/hvaa029f1.tif" path-from-xml="hvaa029f1.tif" target="_blank">Open in new tab</a><a section="198623101" href="/DownloadFile/DownloadImage.aspx?image=https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/clinchem/PAP/10.1093_clinchem_hvaa029/2/hvaa029f1.png?Expires=1585274605&Signature=slhgKaG-2gxRfES6MWnztxpYdBXxYGsGNo0kBUfh~Qo8c3l1kxD6rlckVwqGGWGA6nJsZn0G31JQdcYZKP-xhCGFjclpltUyky1f0B9Io4AG4iGSwNgtY-D7uSdNABXsH~vw3Z9OLpSDBfedWOxahbSud6HHsXbOhjAUCtvTp1kTF~dLJH4mw30wMj-SsT~rIonBnS6Qn4rtZwMUPL1ft5GET~71bb9dyywi204O0uEhPCYHVCTMfJKMqSxx0rLElZxfjauXoi5MBx00vQ93k7tiyifxXi-EeupMdmpX~YUEBhT9MdWIRymhpK65ev8bCN2K9RnYgcdcr~t8BX5wqA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA&sec=198623101&ar=5719336&xsltPath=~/UI/app/XSLT&imagename=&siteId=6246" class="download-slide" path-from-xml="hvaa029f1.tif" target="_blank">Download slide</a></div></div><div class="caption fig-caption"><p>Sequence analysis of 2019-nCoV. (A) Phylogenetics of 2019-nCoV and related sarbecoviruses. Representative α-, β-, γ-coronaviruses were included in the analysis. Bootstrap values ≥70% are shown. Gene accession numbers in GenBank for corresponding viral sequences are provided. Scale bar indicates estimated genetic distance. Human coronaviruses are in bold and 2019-nCoV is underlined. (B) Sequence alignment of ORF-1b (top) and N (bottom) amplicons generated from 2019-nCoV and SARS-CoV. Arrows indicate the regions targeted by the studied primers. Sequence variations between these viruses are shown. The expected amplicon sizes generated from ORF1b and N gene assays are 132 and 110 bp, respectively.</p></div></div><div content-id="hvaa029-F1" class="fig fig-modal reveal-modal"><div class="label fig-label">Fig. 1.</div><div class="graphic-wrap"><img class="content-image" src="https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/clinchem/PAP/10.1093_clinchem_hvaa029/2/m_hvaa029f1.png?Expires=1585274605&amp;Signature=ZH6QT-Go1DkH~0nrXl8D3HqdmFa5kD-dpEH3QsTk1CFVIZgjM4XA5C1fwuOhCrD1ep46QKmbCz1WW8rNClOmgrmLtl8B~~okaWt0J~860PQk00K4kKfz5gOxt7v2LhrFJFgJNCjD8P4JGinQnfL6IWEQ59En9Hconmyw7Hu-j~4SupjkMwHOfc59qFaHWbNheI4hZYPq2E-fAwraUg2xFQ5NMgyrlqCUoUZJn6ytDHsC0jCeva61oFLNuwriHjgpiwBeUtUMehr3MLYxMEOTM5yxdCfmrKGgAFllZNDy2OiXBbUl~XddUwfA-dMjAW1J34vKEOjao1dU9vMYCMoVDA__&amp;Key-Pair-Id=APKAIE5G5CRDK6RD3PGA" alt="Sequence analysis of 2019-nCoV. (A) Phylogenetics of 2019-nCoV and related sarbecoviruses. Representative α-, β-, γ-coronaviruses were included in the analysis. Bootstrap values ≥70% are shown. Gene accession numbers in GenBank for corresponding viral sequences are provided. Scale bar indicates estimated genetic distance. Human coronaviruses are in bold and 2019-nCoV is underlined. (B) Sequence alignment of ORF-1b (top) and N (bottom) amplicons generated from 2019-nCoV and SARS-CoV. Arrows indicate the regions targeted by the studied primers. Sequence variations between these viruses are shown. The expected amplicon sizes generated from ORF1b and N gene assays are 132 and 110 bp, respectively." path-from-xml="hvaa029f1.tif" /><div class="fig-orig original-slide"><a class="fig-view-orig js-view-large openInAnotherWindow" href="/view-large/figure/198623101/hvaa029f1.tif" path-from-xml="hvaa029f1.tif" target="_blank">Open in new tab</a><a section="198623101" href="/DownloadFile/DownloadImage.aspx?image=https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/clinchem/PAP/10.1093_clinchem_hvaa029/2/hvaa029f1.png?Expires=1585274605&Signature=slhgKaG-2gxRfES6MWnztxpYdBXxYGsGNo0kBUfh~Qo8c3l1kxD6rlckVwqGGWGA6nJsZn0G31JQdcYZKP-xhCGFjclpltUyky1f0B9Io4AG4iGSwNgtY-D7uSdNABXsH~vw3Z9OLpSDBfedWOxahbSud6HHsXbOhjAUCtvTp1kTF~dLJH4mw30wMj-SsT~rIonBnS6Qn4rtZwMUPL1ft5GET~71bb9dyywi204O0uEhPCYHVCTMfJKMqSxx0rLElZxfjauXoi5MBx00vQ93k7tiyifxXi-EeupMdmpX~YUEBhT9MdWIRymhpK65ev8bCN2K9RnYgcdcr~t8BX5wqA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA&sec=198623101&ar=5719336&xsltPath=~/UI/app/XSLT&imagename=&siteId=6246" class="download-slide" path-from-xml="hvaa029f1.tif" target="_blank">Download slide</a></div></div><div class="caption fig-caption"><p>Sequence analysis of 2019-nCoV. (A) Phylogenetics of 2019-nCoV and related sarbecoviruses. Representative α-, β-, γ-coronaviruses were included in the analysis. Bootstrap values ≥70% are shown. Gene accession numbers in GenBank for corresponding viral sequences are provided. Scale bar indicates estimated genetic distance. Human coronaviruses are in bold and 2019-nCoV is underlined. (B) Sequence alignment of ORF-1b (top) and N (bottom) amplicons generated from 2019-nCoV and SARS-CoV. Arrows indicate the regions targeted by the studied primers. Sequence variations between these viruses are shown. The expected amplicon sizes generated from ORF1b and N gene assays are 132 and 110 bp, respectively.</p></div></div>                    <h3 scrollto-destination=198623102 id="198623102" class="section-title" >Evaluation of the Assays Using Viral RNA Extracted from Positive and Negative Control Samples</h3>
+<p>Viral RNA from cells infected by SARS coronavirus or DNA plasmids containing the target sequences were positive in the assays as expected. Using viral RNA extracted from virus cultures with known titers, both assays have a dynamic range of at least seven orders of magnitude (2 x 10<sup>−4</sup>-2000 TCID<sub>50</sub>/reaction; data not shown). To accurately determine the detection limits of these assays, we also tested serially diluted positive control plasmids in these assays. In our preliminary trial, reactions with ≥10 copies of this positive control plasmid were consistently positive in both of the assays (<em>n</em> = 5). The DNA amplifications of these newly established assays were found to be efficient. The amplification efficiencies of ORF1b and N gene assays were 99.6% and 95.4%, respectively (<a reveal-id="hvaa029-F2" data-open="hvaa029-F2" class="link link-reveal link-table xref-fig">Fig. 2</a>, R<sup>2</sup> &gt; 0.99 in both cases).</p>                        <a id="198623104" scrollto-destination="198623104"></a>
+<div id="hvaa029-F2" data-id="hvaa029-F2" class="fig fig-section"><div class="label fig-label">Fig. 2.</div><div class="graphic-wrap"><img class="content-image" src="https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/clinchem/PAP/10.1093_clinchem_hvaa029/2/m_hvaa029f2.png?Expires=1585274605&amp;Signature=rXlRGYavXy1B0U7~xEYAG~K23hxmZBz-tB3BPwZN7zKdQXDWqfaXFxyyC6VbXN6OnbiCVKoXGHeJ6je6T90-OlVHSFLsfoxGoNZTXd8xXogSbrtY9vG~ZtZ3x~pKhqvqTGDkoq8yhNPCXizUGa3~4i003gesLvnMiuwC0nB87YXv56u~9XvBUuyolZFel07vyjER7fhX6o3WxR2BKc0XO4ovTvGlPaEe-rKud4WXovi7Pz1Os8oIC-oOm7uFzeAgZ0ubOF4R0wIGDVqAbeP649BKgSNIVtPYeDPZhPeRtitXp5JpTtkQzaRR7sl-4ouNNrwUQ30NNAt1WzwGkDNfhg__&amp;Key-Pair-Id=APKAIE5G5CRDK6RD3PGA" alt="Dynamic range of ORF1b and N gene assays." path-from-xml="hvaa029f2.tif" /><div class="fig-orig original-slide"><a class="fig-view-orig js-view-large openInAnotherWindow" href="/view-large/figure/198623104/hvaa029f2.tif" path-from-xml="hvaa029f2.tif" target="_blank">Open in new tab</a><a section="198623104" href="/DownloadFile/DownloadImage.aspx?image=https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/clinchem/PAP/10.1093_clinchem_hvaa029/2/hvaa029f2.png?Expires=1585274605&Signature=3hbk0eTiu2X2ThMzGpJsg69eZevtY14SJXXIEMfDWKViOdsnbwxF77LO-KviCfVjQw2mDtvgbouTp~kDZVsj1QHntkuugUOMfYdBDrhZvGVx7~YyNn4sX25w8CL1iifClVos3toos6Gm9hnZoDVhigG2JfE8I1R3OP9GPwKcqnQdbvd7uawQygB5fmkkg1gXIZq8363WP4HWeyWHZWu1gRAJ63ERW6iae8lMzQxjNglxSllEi39JiVMc8f0PVq0vZKzbcKf4lmnKgHkD-ExMNgNtYmDXJFLcDt3E5AavYbYkmKmuP-~kIhfAoegPmgwLMzamZ-Y~gzrZOdMEdlTqoQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA&sec=198623104&ar=5719336&xsltPath=~/UI/app/XSLT&imagename=&siteId=6246" class="download-slide" path-from-xml="hvaa029f2.tif" target="_blank">Download slide</a></div></div><div class="caption fig-caption"><p>Dynamic range of ORF1b and N gene assays.</p></div></div><div content-id="hvaa029-F2" class="fig fig-modal reveal-modal"><div class="label fig-label">Fig. 2.</div><div class="graphic-wrap"><img class="content-image" src="https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/clinchem/PAP/10.1093_clinchem_hvaa029/2/m_hvaa029f2.png?Expires=1585274605&amp;Signature=rXlRGYavXy1B0U7~xEYAG~K23hxmZBz-tB3BPwZN7zKdQXDWqfaXFxyyC6VbXN6OnbiCVKoXGHeJ6je6T90-OlVHSFLsfoxGoNZTXd8xXogSbrtY9vG~ZtZ3x~pKhqvqTGDkoq8yhNPCXizUGa3~4i003gesLvnMiuwC0nB87YXv56u~9XvBUuyolZFel07vyjER7fhX6o3WxR2BKc0XO4ovTvGlPaEe-rKud4WXovi7Pz1Os8oIC-oOm7uFzeAgZ0ubOF4R0wIGDVqAbeP649BKgSNIVtPYeDPZhPeRtitXp5JpTtkQzaRR7sl-4ouNNrwUQ30NNAt1WzwGkDNfhg__&amp;Key-Pair-Id=APKAIE5G5CRDK6RD3PGA" alt="Dynamic range of ORF1b and N gene assays." path-from-xml="hvaa029f2.tif" /><div class="fig-orig original-slide"><a class="fig-view-orig js-view-large openInAnotherWindow" href="/view-large/figure/198623104/hvaa029f2.tif" path-from-xml="hvaa029f2.tif" target="_blank">Open in new tab</a><a section="198623104" href="/DownloadFile/DownloadImage.aspx?image=https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/clinchem/PAP/10.1093_clinchem_hvaa029/2/hvaa029f2.png?Expires=1585274605&Signature=3hbk0eTiu2X2ThMzGpJsg69eZevtY14SJXXIEMfDWKViOdsnbwxF77LO-KviCfVjQw2mDtvgbouTp~kDZVsj1QHntkuugUOMfYdBDrhZvGVx7~YyNn4sX25w8CL1iifClVos3toos6Gm9hnZoDVhigG2JfE8I1R3OP9GPwKcqnQdbvd7uawQygB5fmkkg1gXIZq8363WP4HWeyWHZWu1gRAJ63ERW6iae8lMzQxjNglxSllEi39JiVMc8f0PVq0vZKzbcKf4lmnKgHkD-ExMNgNtYmDXJFLcDt3E5AavYbYkmKmuP-~kIhfAoegPmgwLMzamZ-Y~gzrZOdMEdlTqoQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA&sec=198623104&ar=5719336&xsltPath=~/UI/app/XSLT&imagename=&siteId=6246" class="download-slide" path-from-xml="hvaa029f2.tif" target="_blank">Download slide</a></div></div><div class="caption fig-caption"><p>Dynamic range of ORF1b and N gene assays.</p></div></div><p>All negative controls were found to be negative in these assays (data not shown). In addition, we also spiked known amounts of SARS coronavirus into representative negative control samples (10-fold serially diluted virus sample; range: 2 x 10<sup>−4</sup>-2000 TCID<sub>50</sub>/reaction; Number of tests per concentration: 1). RNA extracted from these spiked samples were all positive in the tests, with no significant RT-PCR inhibition detected.</p>                    <h3 scrollto-destination=198623106 id="198623106" class="section-title" >Detection of 2019-nCoV in Patient Samples</h3>
+<p>Respiratory specimens from two suspected patients were tested by both RT-PCR assays. Both patients were positive in the tests (<a reveal-id="hvaa029-T1" data-open="hvaa029-T1" class="link link-reveal link-table xref-fig">Table 1</a>). Preliminary results from serially diluted RNA samples suggested that the N gene assay is about 10 times more sensitive than the ORF-1b gene assay in detecting positive clinical specimens. As these samples could only be tested qualitatively by these assays at the testing site, the exact viral copy numbers in these specimens cannot be determined.</p>                        <a id="198623108" scrollto-destination="198623108"></a>
+<div content-id="hvaa029-T1" class="table-modal table-full-width-wrap"><div class="table-wrap"><div id="hvaa029-T1" class="table-wrap-title" data-id="hvaa029-T1"><div class="label">Table 1</div><div class="caption"><p>Detection of 2019-nCoV in patient samples.</p></div> </div><div class="table-overflow"><table><thead name="thead" align=""><tr><th rowspan="2">Dilution </th><th colspan="2">Assay (Ct value)<hr /> </th></tr><tr><th><strong>Orf1b</strong><a reveal-id="tblfn1" data-open="tblfn1" class="link link-ref link-reveal xref-fn"><sup>a</sup></a> </th><th><strong>N</strong><a reveal-id="tblfn1" data-open="tblfn1" class="link link-ref link-reveal xref-fn"><sup>a</sup></a> </th></tr></thead><tbody><tr><td>Patient 1 </td><td> </td><td> </td></tr><tr><td>Neat </td><td>28.79 </td><td>30.96 </td></tr><tr><td>10x </td><td>31.935 </td><td>33.83 </td></tr><tr><td>100x </td><td>Neg </td><td>36.9 </td></tr><tr><td>1000x </td><td>Neg </td><td>Neg </td></tr><tr><td>10,000x </td><td>Neg </td><td>Neg </td></tr><tr><td>Patient 2 </td><td> </td><td> </td></tr><tr><td>Neat </td><td>22.10 </td><td>24.14 </td></tr><tr><td>10x </td><td>25.66 </td><td>28.02 </td></tr><tr><td>100x </td><td>29.33 </td><td>31.33 </td></tr><tr><td>1000x </td><td>32.55 </td><td>34.54 </td></tr><tr><td>10,000x </td><td>Neg </td><td>37.70 </td></tr></tbody></table></div><div content-id="hvaa029-T1" class="table-modal"><table><thead name="thead" align=""><tr><th rowspan="2">Dilution </th><th colspan="2">Assay (Ct value)<hr /> </th></tr><tr><th><strong>Orf1b</strong><a reveal-id="tblfn1" data-open="tblfn1" class="link link-ref link-reveal xref-fn"><sup>a</sup></a> </th><th><strong>N</strong><a reveal-id="tblfn1" data-open="tblfn1" class="link link-ref link-reveal xref-fn"><sup>a</sup></a> </th></tr></thead><tbody><tr><td>Patient 1 </td><td> </td><td> </td></tr><tr><td>Neat </td><td>28.79 </td><td>30.96 </td></tr><tr><td>10x </td><td>31.935 </td><td>33.83 </td></tr><tr><td>100x </td><td>Neg </td><td>36.9 </td></tr><tr><td>1000x </td><td>Neg </td><td>Neg </td></tr><tr><td>10,000x </td><td>Neg </td><td>Neg </td></tr><tr><td>Patient 2 </td><td> </td><td> </td></tr><tr><td>Neat </td><td>22.10 </td><td>24.14 </td></tr><tr><td>10x </td><td>25.66 </td><td>28.02 </td></tr><tr><td>100x </td><td>29.33 </td><td>31.33 </td></tr><tr><td>1000x </td><td>32.55 </td><td>34.54 </td></tr><tr><td>10,000x </td><td>Neg </td><td>37.70 </td></tr></tbody></table></div><div class="table-wrap-foot"><div content-id="tblfn1"><div class="fn"><div class="label">a</div><p>Single test results at each dilution.</p></div></div></div><div class="graphic-wrap"><a class="fig-view-orig openInAnotherWindow btn js-view-large" href="/view-large/[QueryString]" target="_blank">Open in new tab</a></div></div></div><div class="table-full-width-wrap"><div class="table-wrap"><div id="hvaa029-T1" class="table-wrap-title" data-id="hvaa029-T1"><div class="label">Table 1</div><div class="caption"><p>Detection of 2019-nCoV in patient samples.</p></div> </div><div class="table-overflow"><table><thead name="thead" align=""><tr><th rowspan="2">Dilution </th><th colspan="2">Assay (Ct value)<hr /> </th></tr><tr><th><strong>Orf1b</strong><a reveal-id="tblfn1" data-open="tblfn1" class="link link-ref link-reveal xref-fn"><sup>a</sup></a> </th><th><strong>N</strong><a reveal-id="tblfn1" data-open="tblfn1" class="link link-ref link-reveal xref-fn"><sup>a</sup></a> </th></tr></thead><tbody><tr><td>Patient 1 </td><td> </td><td> </td></tr><tr><td>Neat </td><td>28.79 </td><td>30.96 </td></tr><tr><td>10x </td><td>31.935 </td><td>33.83 </td></tr><tr><td>100x </td><td>Neg </td><td>36.9 </td></tr><tr><td>1000x </td><td>Neg </td><td>Neg </td></tr><tr><td>10,000x </td><td>Neg </td><td>Neg </td></tr><tr><td>Patient 2 </td><td> </td><td> </td></tr><tr><td>Neat </td><td>22.10 </td><td>24.14 </td></tr><tr><td>10x </td><td>25.66 </td><td>28.02 </td></tr><tr><td>100x </td><td>29.33 </td><td>31.33 </td></tr><tr><td>1000x </td><td>32.55 </td><td>34.54 </td></tr><tr><td>10,000x </td><td>Neg </td><td>37.70 </td></tr></tbody></table></div><div content-id="hvaa029-T1" class="table-modal"><table><thead name="thead" align=""><tr><th rowspan="2">Dilution </th><th colspan="2">Assay (Ct value)<hr /> </th></tr><tr><th><strong>Orf1b</strong><a reveal-id="tblfn1" data-open="tblfn1" class="link link-ref link-reveal xref-fn"><sup>a</sup></a> </th><th><strong>N</strong><a reveal-id="tblfn1" data-open="tblfn1" class="link link-ref link-reveal xref-fn"><sup>a</sup></a> </th></tr></thead><tbody><tr><td>Patient 1 </td><td> </td><td> </td></tr><tr><td>Neat </td><td>28.79 </td><td>30.96 </td></tr><tr><td>10x </td><td>31.935 </td><td>33.83 </td></tr><tr><td>100x </td><td>Neg </td><td>36.9 </td></tr><tr><td>1000x </td><td>Neg </td><td>Neg </td></tr><tr><td>10,000x </td><td>Neg </td><td>Neg </td></tr><tr><td>Patient 2 </td><td> </td><td> </td></tr><tr><td>Neat </td><td>22.10 </td><td>24.14 </td></tr><tr><td>10x </td><td>25.66 </td><td>28.02 </td></tr><tr><td>100x </td><td>29.33 </td><td>31.33 </td></tr><tr><td>1000x </td><td>32.55 </td><td>34.54 </td></tr><tr><td>10,000x </td><td>Neg </td><td>37.70 </td></tr></tbody></table></div><div class="table-wrap-foot"><div content-id="tblfn1"><div class="fn"><div class="label">a</div><p>Single test results at each dilution.</p></div></div></div><div class="graphic-wrap"><a class="fig-view-orig openInAnotherWindow btn js-view-large" href="/view-large/[QueryString]" target="_blank">Open in new tab</a></div></div></div>                    <h2 scrollto-destination=198623109 id="198623109" class="section-title" >Discussion</h2>
+<p>In this study, two assays targeting the viruses in the subgenus <em>Sarbecovirus</em> were made and evaluated. We intentionally made these assays to be reactive to multiple viruses in this subgenus. This is because there is insufficient public information about the genetic diversity of 2019-nCoV in humans and animals. In 2003, SARS coronaviruses found in palm civets and humans were genetically highly similar, but distinct. For example, a partial deletion was detected in SARS coronavirus found in palm civets <em>(</em><a reveal-id="hvaa029-B6" data-open="hvaa029-B6" class="link link-ref link-reveal xref-bibr">6</a>,<em>)</em>. Similar subtle sequence variations were also observed in MERS coronavirus found in camels and humans <em>(</em><a reveal-id="hvaa029-B15" data-open="hvaa029-B15" class="link link-ref link-reveal xref-bibr">15</a><em>)</em>. To avoid the possible scenario in which the genetic diversity of 2019-nCoV is much more diverse than appreciated, our primer and probe sets were designed to react with this clade of coronaviruses.</p><p>We evaluated our assays using a panel of positive and negative control samples. The assays were found to be sensitive and specific to only sarbecoviruses. We further used respiratory specimens from patients infected by 2019-nCoV to demonstrate the potential use of these tests. The tested clinical samples were different in nature (sputum vs. throat swab) and they were collected at different onset times (day 5 vs. day 3). Thus, it is premature to use these data to determine the viral replication kinetics in humans. Further systematic investigations on clinical specimens collected from 2019-nCoV-infected patients at different post-onset time points will be needed. Nonetheless, the results demonstrated the clinical value of these respiratory samples for molecular detection of 2019-nCoV. In addition, the N gene RT-PCR assay was found to be more sensitive in detecting 2019-nCoV RNA in the studied clinical samples. It is possible that these clinical samples might contain infected cells expressing subgenomic mRNA <em>(</em><a reveal-id="hvaa029-B16" data-open="hvaa029-B16" class="link link-ref link-reveal xref-bibr">16</a><em>)</em>, resulting in more N gene copies in the samples.</p><p>With the exception of 2019-nCoV and SARS coronavirus, none of the sarbecoviruses have been previously detected in humans. SARS was eliminated in humans and the last reported human SARS case was detected in 2004 <em>(</em><a reveal-id="hvaa029-B17" data-open="hvaa029-B17" class="link link-ref link-reveal xref-bibr">17</a>,<em>)</em>. Individuals with samples that are positive in these RT-PCR assays should be considered to be infected by the 2019-nCoV or its related animal coronaviruses. Based on their detection performances, the N gene RT-PCR is recommended as a screening assay, and the Orf1b assay is recommended as a confirmatory one. Using a diagnostic algorithm similar to MERS, an N gene positive/Orf1b negative result should be regarded as indeterminate and the case is recommended to be referred to a WHO reference lab for further testing <em>(</em><a reveal-id="hvaa029-B18" data-open="hvaa029-B18" class="link link-ref link-reveal xref-bibr">18</a><em>)</em>. In the event of having positive PCR results, sequence analyses of positive amplicons can help to confirm the result and to distinguish between 2019-nCoV and other genetically related coronaviruses (e.g., SARS coronavirus).</p><p>The biosafety classification of 2019-nCoV is yet to be fully defined. Clinical samples for molecular tests are recommended to be handled using biosafety level 2 practices <em>(</em><a reveal-id="hvaa029-B19" data-open="hvaa029-B19" class="link link-ref link-reveal xref-bibr">19</a><em>)</em>. As SARS coronavirus is classified as a biosafety level 3 (BSL3) pathogen, we therefore intentionally used DNA plasmids as positive controls in these tests. This can avoid distributing SARS coronavirus genomic RNA which has the potential of generating infectious clones via reverse genetics. In addition, this can also help to distribute positive controls to laboratories at different geographical regions in a more cost-effective and robust manner. These DNA plasmid controls are available upon request.</p><p>During the reviewing process of this manuscript, Corman and colleagues reported the use synthetic constructs and SARS virus to develop RT-PCR assays for 2019-nCoV detection <em>(</em><a reveal-id="hvaa029-B20" data-open="hvaa029-B20" class="link link-ref link-reveal xref-bibr">20</a><em>)</em>.</p>                    <h2 scrollto-destination=198623115 id="198623115" class="backsection-title" >Disclosures</h2>
+<p><strong>Author Contributions:</strong> <em>All authors confirmed they have contributed to the intellectual content of this paper and have met the following 4 requirements: (a) significant contributions to the conception and design, acquisition of data, or analysis and interpretation of data; (b) drafting or revising the article for intellectual content; (c) final approval of the published article; and (d) agreement to be accountable for all aspects of the article thus ensuring that questions related to the accuracy or integrity of any part of the article are appropriately investigated and resolved.</em></p><p>K. Hui, provision of study material or patients; L. Poon, financial support, provision of study material or patients.</p><p><strong>Authors’ Disclosures or Potential Conflicts of Interest:</strong> <em>Upon manuscript submission, all authors completed the author disclosure form. Disclosures and/or potential conflicts of interest:</em> <strong>Employment or Leadership:</strong> None declared. <strong>Consultant or Advisory Role:</strong> None declared. <strong>Stock Ownership:</strong> None declared. <strong>Honoraria:</strong> None declared. <strong>Research Funding:</strong> RGC Theme-based research grant (Grant T11-705/14N) and National Institutes of Allergy and Infectious Diseases, National Institutes of Health (USA) (contract HHSN272201400006C). <strong>Expert Testimony:</strong> None declared. <strong>Patents:</strong> None declared.</p><p><strong>Role of Sponsor:</strong> The funding organizations played no role in the design of study, choice of enrolled patients, review and interpretation of data, preparation of manuscript, or final approval of manuscript.</p>                    <h2 scrollto-destination=198623120 id="198623120" class="backacknowledgements-title" data-legacy-id=ACK1>Acknowledgments</h2>
+<p>We thank staff members of Daxing District Center for Disease Control and Prevention for their help with ﬁeld investigation and sampling. We also thank colleagues for making 2019-nCoV viral sequences available for public access.</p>                    <h2 scrollto-destination=198623122 id="198623122" class="backreferences-title" data-legacy-id=REF1>References</h2>
+<div class="ref-list"><div content-id="hvaa029-B1" xmlns:helper="urn:XsltStringHelper"><div class="ref false"><div role="hvaa029-B1" class="ref-content "><div class="label">1</div><div class="citation mixed-citation"><div class="person-group"><div class="name string-name"><div class="surname">Cui</div> <div class="given-names">J</div></div>, <div class="name string-name"><div class="surname">Li</div> <div class="given-names">F</div></div>, <div class="name string-name"><div class="surname">Shi</div> <div class="given-names">ZL.</div></div></div> <div class="article-title">Origin and evolution of pathogenic coronaviruses</div>. <div class="source ">Nat Rev Microbiol</div> <div class="year">2019</div>;<div class="volume">17</div>:<div class="fpage">181</div>–<div class="lpage">92</div>.<div class="citation-links"></div><div class="citation-links"><div class="google-scholar-ref-link"><a class="openInAnotherWindow" href="https://scholar.google.com/scholar_lookup?title=Origin%20and%20evolution%20of%20pathogenic%20coronaviruses&amp;author=J%20Cui&amp;author=F%20Li&amp;author=ZL.%20Shi&amp;publication_year=2019&amp;journal=Nat%20Rev%20Microbiol&amp;volume=17&amp;pages=181-92" target="_blank">Google Scholar</a></div><div class="crossref-doi js-ref-link"><a class="openInAnotherWindow" href="http://dx.doi.org/10.1038/s41579-018-0118-9" target="_blank">Crossref</a></div><div class="adsDoiReference hide"><a class="openInAnotherWindow" href="http://adsabs.harvard.edu/cgi-bin/basic_connect?qsearch=10.1038%2Fs41579-018-0118-9" target="_blank">Search ADS</a></div><div class="xslopenurl" style="display:none"><span class="inst-open-url-holders" data-targetId="10.1038%2Fs41579-018-0118-9"> </span></div><div class="pub-id"><a href="http://www.ncbi.nlm.nih.gov/pubmed/30531947" class="link link-pub-id openInAnotherWindow" target="_blank">PubMed</a></div><div class="worldcat-reference-ref-link js-worldcat-preview-ref-link" style="display:none"><a class="openInAnotherWindow" href="https://www.worldcat.org/search?q=ti:Origin%20and%20evolution%20of%20pathogenic%20coronaviruses&amp;qt=advanced&amp;dblist=638" target="_blank">WorldCat</a></div> </div></div></div></div></div><div content-id="hvaa029-B2" xmlns:helper="urn:XsltStringHelper"><div class="ref false"><div role="hvaa029-B2" class="ref-content "><div class="label">2</div><div class="citation mixed-citation"><div class="person-group"><div class="name string-name"><div class="surname">Donnelly</div> <div class="given-names">CA</div></div>, <div class="name string-name"><div class="surname">Malik</div> <div class="given-names">MR</div></div>, <div class="name string-name"><div class="surname">Elkholy</div> <div class="given-names">A</div></div>, <div class="name string-name"><div class="surname">Cauchemez</div> <div class="given-names">S</div></div>, <div class="name string-name"><div class="surname">Van Kerkhove</div> <div class="given-names">MD.</div></div></div> <div class="article-title">Worldwide reduction in MERS cases and deaths since 2016</div>. <div class="source ">Emerg Infect Dis</div> <div class="year">2019</div>;<div class="volume">25</div>:<div class="fpage">1758</div>–<div class="lpage">60</div>.<div class="citation-links"></div><div class="citation-links"><div class="google-scholar-ref-link"><a class="openInAnotherWindow" href="https://scholar.google.com/scholar_lookup?title=Worldwide%20reduction%20in%20MERS%20cases%20and%20deaths%20since%202016&amp;author=CA%20Donnelly&amp;author=MR%20Malik&amp;author=A%20Elkholy&amp;author=S%20Cauchemez&amp;author=MD.%20Van%20Kerkhove&amp;publication_year=2019&amp;journal=Emerg%20Infect%20Dis&amp;volume=25&amp;pages=1758-60" target="_blank">Google Scholar</a></div><div class="crossref-doi js-ref-link"><a class="openInAnotherWindow" href="http://dx.doi.org/10.3201/eid2509.190143" target="_blank">Crossref</a></div><div class="adsDoiReference hide"><a class="openInAnotherWindow" href="http://adsabs.harvard.edu/cgi-bin/basic_connect?qsearch=10.3201%2Feid2509.190143" target="_blank">Search ADS</a></div><div class="xslopenurl" style="display:none"><span class="inst-open-url-holders" data-targetId="10.3201%2Feid2509.190143"> </span></div><div class="pub-id"><a href="http://www.ncbi.nlm.nih.gov/pubmed/31264567" class="link link-pub-id openInAnotherWindow" target="_blank">PubMed</a></div><div class="worldcat-reference-ref-link js-worldcat-preview-ref-link" style="display:none"><a class="openInAnotherWindow" href="https://www.worldcat.org/search?q=ti:Worldwide%20reduction%20in%20MERS%20cases%20and%20deaths%20since%202016&amp;qt=advanced&amp;dblist=638" target="_blank">WorldCat</a></div> </div></div></div></div></div><div content-id="hvaa029-B3" xmlns:helper="urn:XsltStringHelper"><div class="ref false"><div role="hvaa029-B3" class="ref-content "><div class="label">3</div><div class="citation mixed-citation"><div class="person-group"><div class="name string-name"><div class="surname">Poon</div> <div class="given-names">LL</div></div>, <div class="name string-name"><div class="surname">Guan</div> <div class="given-names">Y</div></div>, <div class="name string-name"><div class="surname">Nicholls</div> <div class="given-names">JM</div></div>, <div class="name string-name"><div class="surname">Yuen</div> <div class="given-names">KY</div></div>, <div class="name string-name"><div class="surname">Peiris</div> <div class="given-names">JS.</div></div></div> <div class="article-title">The aetiology, origins, and diagnosis of severe acute respiratory syndrome</div>. <div class="source ">Lancet Infect Dis</div> <div class="year">2004</div>;<div class="volume">4</div>:<div class="fpage">663</div>–<div class="lpage">71</div>.<div class="citation-links"></div><div class="citation-links"><div class="google-scholar-ref-link"><a class="openInAnotherWindow" href="https://scholar.google.com/scholar_lookup?title=The%20aetiology%2C%20origins%2C%20and%20diagnosis%20of%20severe%20acute%20respiratory%20syndrome&amp;author=LL%20Poon&amp;author=Y%20Guan&amp;author=JM%20Nicholls&amp;author=KY%20Yuen&amp;author=JS.%20Peiris&amp;publication_year=2004&amp;journal=Lancet%20Infect%20Dis&amp;volume=4&amp;pages=663-71" target="_blank">Google Scholar</a></div><div class="crossref-doi js-ref-link"><a class="openInAnotherWindow" href="http://dx.doi.org/10.1016/S1473-3099(04)01172-7" target="_blank">Crossref</a></div><div class="adsDoiReference hide"><a class="openInAnotherWindow" href="http://adsabs.harvard.edu/cgi-bin/basic_connect?qsearch=10.1016%2FS1473-3099(04)01172-7" target="_blank">Search ADS</a></div><div class="xslopenurl" style="display:none"><span class="inst-open-url-holders" data-targetId="10.1016%2FS1473-3099(04)01172-7"> </span></div><div class="pub-id"><a href="http://www.ncbi.nlm.nih.gov/pubmed/15522678" class="link link-pub-id openInAnotherWindow" target="_blank">PubMed</a></div><div class="worldcat-reference-ref-link js-worldcat-preview-ref-link" style="display:none"><a class="openInAnotherWindow" href="https://www.worldcat.org/search?q=ti:The%20aetiology%2C%20origins%2C%20and%20diagnosis%20of%20severe%20acute%20respiratory%20syndrome&amp;qt=advanced&amp;dblist=638" target="_blank">WorldCat</a></div> </div></div></div></div></div><div content-id="hvaa029-B4" xmlns:helper="urn:XsltStringHelper"><div class="ref false"><div role="hvaa029-B4" class="ref-content "><div class="label">4</div><div class="citation mixed-citation"><div class="person-group"><div class="name string-name"><div class="surname">Hemida</div> <div class="given-names">MG</div></div>, <div class="name string-name"><div class="surname">Perera</div> <div class="given-names">RA</div></div>, <div class="name string-name"><div class="surname">Wang</div> <div class="given-names">P</div></div>, <div class="name string-name"><div class="surname">Alhammadi</div> <div class="given-names">MA</div></div>, <div class="name string-name"><div class="surname">Siu</div> <div class="given-names">LY</div></div>, <div class="name string-name"><div class="surname">Li</div> <div class="given-names">M</div></div></div>, et al. . <div class="article-title">Middle East Respiratory Syndrome (MERS) coronavirus seroprevalence in domestic livestock in Saudi Arabia, 2010 to 2013</div>. <div class="source ">Euro Surveill</div> <div class="year">2013</div>;<div class="volume">18</div>:<div class="fpage">20659.</div><div class="citation-links"></div><div class="citation-links"><div class="google-scholar-ref-link"><a class="openInAnotherWindow" href="https://scholar.google.com/scholar_lookup?title=Middle%20East%20Respiratory%20Syndrome%20(MERS)%20coronavirus%20seroprevalence%20in%20domestic%20livestock%20in%20Saudi%20Arabia%2C%202010%20to%202013&amp;author=MG%20Hemida&amp;author=RA%20Perera&amp;author=P%20Wang&amp;author=MA%20Alhammadi&amp;author=LY%20Siu&amp;author=M%20Li&amp;publication_year=2013&amp;journal=Euro%20Surveill&amp;volume=18&amp;pages=20659." target="_blank">Google Scholar</a></div><div class="crossref-doi js-ref-link"><a class="openInAnotherWindow" href="http://dx.doi.org/10.2807/1560-7917.ES2013.18.50.20659" target="_blank">Crossref</a></div><div class="adsDoiReference hide"><a class="openInAnotherWindow" href="http://adsabs.harvard.edu/cgi-bin/basic_connect?qsearch=10.2807%2F1560-7917.ES2013.18.50.20659" target="_blank">Search ADS</a></div><div class="xslopenurl" style="display:none"><span class="inst-open-url-holders" data-targetId="10.2807%2F1560-7917.ES2013.18.50.20659"> </span></div><div class="pub-id"><a href="http://www.ncbi.nlm.nih.gov/pubmed/24342517" class="link link-pub-id openInAnotherWindow" target="_blank">PubMed</a></div><div class="worldcat-reference-ref-link js-worldcat-preview-ref-link" style="display:none"><a class="openInAnotherWindow" href="https://www.worldcat.org/search?q=ti:Middle%20East%20Respiratory%20Syndrome%20(MERS)%20coronavirus%20seroprevalence%20in%20domestic%20livestock%20in%20Saudi%20Arabia%2C%202010%20to%202013&amp;qt=advanced&amp;dblist=638" target="_blank">WorldCat</a></div> </div></div></div></div></div><div content-id="hvaa029-B5" xmlns:helper="urn:XsltStringHelper"><div class="ref false"><div role="hvaa029-B5" class="ref-content "><div class="label">5</div><div class="citation mixed-citation"><div class="person-group"><div class="name string-name"><div class="surname">Reusken</div> <div class="given-names">CB</div></div>, <div class="name string-name"><div class="surname">Ababneh</div> <div class="given-names">M</div></div>, <div class="name string-name"><div class="surname">Raj</div> <div class="given-names">VS</div></div>, <div class="name string-name"><div class="surname">Meyer</div> <div class="given-names">B</div></div>, <div class="name string-name"><div class="surname">Eljarah</div> <div class="given-names">A</div></div>, <div class="name string-name"><div class="surname">Abutarbush</div> <div class="given-names">S</div></div></div>, et al. . <div class="article-title">Middle East Respiratory Syndrome coronavirus (MERS-CoV) serology in major livestock species in an affected region in Jordan, June to September 2013</div>. <div class="source ">Euro Surveill</div> <div class="year">2013</div>;<div class="volume">18</div>:<div class="fpage">20662.</div><div class="citation-links"></div><div class="citation-links"><div class="google-scholar-ref-link"><a class="openInAnotherWindow" href="https://scholar.google.com/scholar_lookup?title=Middle%20East%20Respiratory%20Syndrome%20coronavirus%20(MERS-CoV)%20serology%20in%20major%20livestock%20species%20in%20an%20affected%20region%20in%20Jordan%2C%20June%20to%20September%202013&amp;author=CB%20Reusken&amp;author=M%20Ababneh&amp;author=VS%20Raj&amp;author=B%20Meyer&amp;author=A%20Eljarah&amp;author=S%20Abutarbush&amp;publication_year=2013&amp;journal=Euro%20Surveill&amp;volume=18&amp;pages=20662." target="_blank">Google Scholar</a></div><div class="crossref-doi js-ref-link"><a class="openInAnotherWindow" href="http://dx.doi.org/10.2807/1560-7917.ES2013.18.50.20662" target="_blank">Crossref</a></div><div class="adsDoiReference hide"><a class="openInAnotherWindow" href="http://adsabs.harvard.edu/cgi-bin/basic_connect?qsearch=10.2807%2F1560-7917.ES2013.18.50.20662" target="_blank">Search ADS</a></div><div class="xslopenurl" style="display:none"><span class="inst-open-url-holders" data-targetId="10.2807%2F1560-7917.ES2013.18.50.20662"> </span></div><div class="pub-id"><a href="http://www.ncbi.nlm.nih.gov/pubmed/24342516" class="link link-pub-id openInAnotherWindow" target="_blank">PubMed</a></div><div class="worldcat-reference-ref-link js-worldcat-preview-ref-link" style="display:none"><a class="openInAnotherWindow" href="https://www.worldcat.org/search?q=ti:Middle%20East%20Respiratory%20Syndrome%20coronavirus%20(MERS-CoV)%20serology%20in%20major%20livestock%20species%20in%20an%20affected%20region%20in%20Jordan%2C%20June%20to%20September%202013&amp;qt=advanced&amp;dblist=638" target="_blank">WorldCat</a></div> </div></div></div></div></div><div content-id="hvaa029-B6" xmlns:helper="urn:XsltStringHelper"><div class="ref false"><div role="hvaa029-B6" class="ref-content "><div class="label">6</div><div class="citation mixed-citation"><div class="person-group"><div class="name string-name"><div class="surname">Guan</div> <div class="given-names">Y</div></div>, <div class="name string-name"><div class="surname">Zheng</div> <div class="given-names">BJ</div></div>, <div class="name string-name"><div class="surname">He</div> <div class="given-names">YQ</div></div>, <div class="name string-name"><div class="surname">Liu</div> <div class="given-names">XL</div></div>, <div class="name string-name"><div class="surname">Zhuang</div> <div class="given-names">ZX</div></div>, <div class="name string-name"><div class="surname">Cheung</div> <div class="given-names">CL</div></div></div>, et al. . <div class="article-title">Isolation and characterization of viruses related to the SARS coronavirus from animals in southern China</div>. <div class="source ">Science</div> <div class="year">2003</div>;<div class="volume">302</div>:<div class="fpage">276</div>–<div class="lpage">8</div>.<div class="citation-links"></div><div class="citation-links"><div class="google-scholar-ref-link"><a class="openInAnotherWindow" href="https://scholar.google.com/scholar_lookup?title=Isolation%20and%20characterization%20of%20viruses%20related%20to%20the%20SARS%20coronavirus%20from%20animals%20in%20southern%20China&amp;author=Y%20Guan&amp;author=BJ%20Zheng&amp;author=YQ%20He&amp;author=XL%20Liu&amp;author=ZX%20Zhuang&amp;author=CL%20Cheung&amp;publication_year=2003&amp;journal=Science&amp;volume=302&amp;pages=276-8" target="_blank">Google Scholar</a></div><div class="crossref-doi js-ref-link"><a class="openInAnotherWindow" href="http://dx.doi.org/10.1126/science.1087139" target="_blank">Crossref</a></div><div class="adsDoiReference hide"><a class="openInAnotherWindow" href="http://adsabs.harvard.edu/cgi-bin/basic_connect?qsearch=10.1126%2Fscience.1087139" target="_blank">Search ADS</a></div><div class="xslopenurl" style="display:none"><span class="inst-open-url-holders" data-targetId="10.1126%2Fscience.1087139"> </span></div><div class="pub-id"><a href="http://www.ncbi.nlm.nih.gov/pubmed/12958366" class="link link-pub-id openInAnotherWindow" target="_blank">PubMed</a></div><div class="worldcat-reference-ref-link js-worldcat-preview-ref-link" style="display:none"><a class="openInAnotherWindow" href="https://www.worldcat.org/search?q=ti:Isolation%20and%20characterization%20of%20viruses%20related%20to%20the%20SARS%20coronavirus%20from%20animals%20in%20southern%20China&amp;qt=advanced&amp;dblist=638" target="_blank">WorldCat</a></div> </div></div></div></div></div><div content-id="hvaa029-B7" xmlns:helper="urn:XsltStringHelper"><div class="ref false"><div role="hvaa029-B7" class="ref-content "><div class="label">7</div><div class="citation mixed-citation"><div class="person-group"><div class="name string-name"><div class="surname">de Wit</div> <div class="given-names">E</div></div>, <div class="name string-name"><div class="surname">van Doremalen</div> <div class="given-names">N</div></div>, <div class="name string-name"><div class="surname">Falzarano</div> <div class="given-names">D</div></div>, <div class="name string-name"><div class="surname">Munster</div> <div class="given-names">VJ.</div></div></div> <div class="article-title">SARS and MERS: recent insights into emerging coronaviruses</div>. <div class="source ">Nat Rev Microbiol</div> <div class="year">2016</div>;<div class="volume">14</div>:<div class="fpage">523</div>–<div class="lpage">34</div>.<div class="citation-links"></div><div class="citation-links"><div class="google-scholar-ref-link"><a class="openInAnotherWindow" href="https://scholar.google.com/scholar_lookup?title=SARS%20and%20MERS%3A%20recent%20insights%20into%20emerging%20coronaviruses&amp;author=E%20de%20Wit&amp;author=N%20van%20Doremalen&amp;author=D%20Falzarano&amp;author=VJ.%20Munster&amp;publication_year=2016&amp;journal=Nat%20Rev%20Microbiol&amp;volume=14&amp;pages=523-34" target="_blank">Google Scholar</a></div><div class="crossref-doi js-ref-link"><a class="openInAnotherWindow" href="http://dx.doi.org/10.1038/nrmicro.2016.81" target="_blank">Crossref</a></div><div class="adsDoiReference hide"><a class="openInAnotherWindow" href="http://adsabs.harvard.edu/cgi-bin/basic_connect?qsearch=10.1038%2Fnrmicro.2016.81" target="_blank">Search ADS</a></div><div class="xslopenurl" style="display:none"><span class="inst-open-url-holders" data-targetId="10.1038%2Fnrmicro.2016.81"> </span></div><div class="pub-id"><a href="http://www.ncbi.nlm.nih.gov/pubmed/27344959" class="link link-pub-id openInAnotherWindow" target="_blank">PubMed</a></div><div class="worldcat-reference-ref-link js-worldcat-preview-ref-link" style="display:none"><a class="openInAnotherWindow" href="https://www.worldcat.org/search?q=ti:SARS%20and%20MERS%3A%20recent%20insights%20into%20emerging%20coronaviruses&amp;qt=advanced&amp;dblist=638" target="_blank">WorldCat</a></div> </div></div></div></div></div><div content-id="hvaa029-B8" xmlns:helper="urn:XsltStringHelper"><div class="ref false"><div role="hvaa029-B8" class="ref-content "><div class="label">8</div><div class="citation mixed-citation"><div class="person-group"><div class="name string-name"><div class="surname">Chan</div> <div class="given-names">RW</div></div>, <div class="name string-name"><div class="surname">Poon</div> <div class="given-names">LL.</div></div></div> <div class="article-title">The emergence of human coronavirus emc: How scared should we be?</div> <div class="source ">mBio</div> <div class="year">2013</div>;<div class="volume">4</div>:<div class="fpage">e00191</div>–<div class="lpage">13</div>.<div class="citation-links"></div><div class="citation-links"><div class="google-scholar-ref-link"><a class="openInAnotherWindow" href="https://scholar.google.com/scholar_lookup?title=The%20emergence%20of%20human%20coronavirus%20emc%3A%20How%20scared%20should%20we%20be%3F&amp;author=RW%20Chan&amp;author=LL.%20Poon&amp;publication_year=2013&amp;journal=mBio&amp;volume=4&amp;pages=e00191-13" target="_blank">Google Scholar</a></div><div class="pub-id"><a href="http://www.ncbi.nlm.nih.gov/pubmed/23572553" class="link link-pub-id openInAnotherWindow" target="_blank">PubMed</a></div><div class="xslopenurl" style="display:none"><span class="js-inst-open-url-holders-nodoi"><a class="openInAnotherWindow js-open-url-link" target="_blank" data-href-template="{targetURL}?sid=oup:orr&amp;genre=article&amp;atitle=The%20emergence%20of%20human%20coronavirus%20emc%3A%20How%20scared%20should%20we%20be%3F&amp;aulast=Chan&amp;date=2013&amp;spage=e00191&amp;epage=13&amp;volume=4" href="#"></a></span></div><div class="worldcat-reference-ref-link js-worldcat-preview-ref-link" style="display:none"><a class="openInAnotherWindow" href="https://www.worldcat.org/search?q=ti:The%20emergence%20of%20human%20coronavirus%20emc%3A%20How%20scared%20should%20we%20be%3F&amp;qt=advanced&amp;dblist=638" target="_blank">WorldCat</a></div> </div></div></div></div></div><div content-id="hvaa029-B9" xmlns:helper="urn:XsltStringHelper"><div class="ref false"><div role="hvaa029-B9" class="ref-content "><div class="label">9</div><div class="citation mixed-citation"><div class="person-group"><div class="name string-name"><div class="surname">Hu</div> <div class="given-names">B</div></div>, <div class="name string-name"><div class="surname">Zeng</div> <div class="given-names">LP</div></div>, <div class="name string-name"><div class="surname">Yang</div> <div class="given-names">XL</div></div>, <div class="name string-name"><div class="surname">Ge</div> <div class="given-names">XY</div></div>, <div class="name string-name"><div class="surname">Zhang</div> <div class="given-names">W</div></div>, <div class="name string-name"><div class="surname">Li</div> <div class="given-names">B</div></div></div>, et al. . <div class="article-title">Discovery of a rich gene pool of bat SARS-related coronaviruses provides new insights into the origin of SARS coronavirus</div>. <div class="source ">PLoS Pathog</div> <div class="year">2017</div>;<div class="volume">13</div>:<div class="fpage">e1006698.</div><div class="citation-links"></div><div class="citation-links"><div class="google-scholar-ref-link"><a class="openInAnotherWindow" href="https://scholar.google.com/scholar_lookup?title=Discovery%20of%20a%20rich%20gene%20pool%20of%20bat%20SARS-related%20coronaviruses%20provides%20new%20insights%20into%20the%20origin%20of%20SARS%20coronavirus&amp;author=B%20Hu&amp;author=LP%20Zeng&amp;author=XL%20Yang&amp;author=XY%20Ge&amp;author=W%20Zhang&amp;author=B%20Li&amp;publication_year=2017&amp;journal=PLoS%20Pathog&amp;volume=13&amp;pages=e1006698." target="_blank">Google Scholar</a></div><div class="crossref-doi js-ref-link"><a class="openInAnotherWindow" href="http://dx.doi.org/10.1371/journal.ppat.1006698" target="_blank">Crossref</a></div><div class="adsDoiReference hide"><a class="openInAnotherWindow" href="http://adsabs.harvard.edu/cgi-bin/basic_connect?qsearch=10.1371%2Fjournal.ppat.1006698" target="_blank">Search ADS</a></div><div class="xslopenurl" style="display:none"><span class="inst-open-url-holders" data-targetId="10.1371%2Fjournal.ppat.1006698"> </span></div><div class="pub-id"><a href="http://www.ncbi.nlm.nih.gov/pubmed/29190287" class="link link-pub-id openInAnotherWindow" target="_blank">PubMed</a></div><div class="worldcat-reference-ref-link js-worldcat-preview-ref-link" style="display:none"><a class="openInAnotherWindow" href="https://www.worldcat.org/search?q=ti:Discovery%20of%20a%20rich%20gene%20pool%20of%20bat%20SARS-related%20coronaviruses%20provides%20new%20insights%20into%20the%20origin%20of%20SARS%20coronavirus&amp;qt=advanced&amp;dblist=638" target="_blank">WorldCat</a></div> </div></div></div></div></div><div content-id="hvaa029-B10" xmlns:helper="urn:XsltStringHelper"><div class="ref false"><div role="hvaa029-B10" class="ref-content "><div class="label">10</div><div class="citation mixed-citation">World Health Organization. Novel Coronavirus (<div class="year">2019</div>-nCoV), Situation report- 1. <a class="link link-uri openInAnotherWindow" href="https://www.who.int/docs/default-source/coronaviruse/situation-reports/20200121-sitrep-1-2019-ncov.pdf? sfvrsn=20a99c10_4 (Assessed January 2020" target="_blank">https://www.who.int/docs/default-source/coronaviruse/situation-reports/20200121-sitrep-1-2019-ncov.pdf? sfvrsn=20a99c10_4 (Accessed January 2020</a>).</div></div></div></div><div content-id="hvaa029-B11" xmlns:helper="urn:XsltStringHelper"><div class="ref false"><div role="hvaa029-B11" class="ref-content "><div class="label">11</div><div class="citation mixed-citation"><div class="person-group"><div class="name string-name"><div class="surname">Zhou</div> <div class="given-names">P</div></div>, <div class="name string-name"><div class="surname">Yang</div> <div class="given-names">X</div></div>, <div class="name string-name"><div class="surname">Wang</div> <div class="given-names">X</div></div>, <div class="name string-name"><div class="surname">Hu</div> <div class="given-names">B</div></div>, <div class="name string-name"><div class="surname">Zhang</div> <div class="given-names">L</div></div>, <div class="name string-name"><div class="surname">Zhang</div> <div class="given-names">W</div></div></div>, et al. . Discovery of a novel coronavirus associated with the recent pneumonia outbreak in humans and its potential bat origin. Preprint at <a class="link link-uri openInAnotherWindow" href="https://www.biorxiv.org/content/10.1101/2020.01.22.914952v1" target="_blank">https://www.biorxiv.org/content/10.1101/2020.01.22.914952v1</a> (<div class="year">2020</div>).</div></div></div></div><div content-id="hvaa029-B12" xmlns:helper="urn:XsltStringHelper"><div class="ref false"><div role="hvaa029-B12" class="ref-content "><div class="label">12</div><div class="citation mixed-citation">World Health Organization. Novel Coronavirus (<div class="year">2019</div>-nCoV), Situation report- 2. <a class="link link-uri openInAnotherWindow" href="https://www.who.int/docs/default-source/coronaviruse/situation-reports/20200122-sitrep-2-2019-ncov.pdf? sfvrsn=4d5bcbca_2 (Assessed January 2020" target="_blank">https://www.who.int/docs/default-source/coronaviruse/situation-reports/20200122-sitrep-2-2019-ncov.pdf? sfvrsn=4d5bcbca_2 (Accessed January 2020</a>).</div></div></div></div><div content-id="hvaa029-B13" xmlns:helper="urn:XsltStringHelper"><div class="ref false"><div role="hvaa029-B13" class="ref-content "><div class="label">13</div><div class="citation mixed-citation">South China Morning Post. Wuhan virus kills fourth patient, infects hospital staff amid fear of ‘super-spreader’<a class="link link-uri openInAnotherWindow" href="https://www.scmp.com/news/china/society/article/3046908/new-china-virus-likely-human-transmission-stage-infections" target="_blank">https://www.scmp.com/news/china/society/article/3046908/new-china-virus-likely-human-transmission-stage-infections</a>. (Accessed January <div class="year">2020</div>).</div></div></div></div><div content-id="hvaa029-B14" xmlns:helper="urn:XsltStringHelper"><div class="ref false"><div role="hvaa029-B14" class="ref-content "><div class="label">14</div><div class="citation mixed-citation"><div class="person-group"><div class="name string-name"><div class="surname">Kumar</div> <div class="given-names">S</div></div>, <div class="name string-name"><div class="surname">Stecher</div> <div class="given-names">G</div></div>, <div class="name string-name"><div class="surname">Li</div> <div class="given-names">M</div></div>, <div class="name string-name"><div class="surname">Knyaz</div> <div class="given-names">C</div></div>, <div class="name string-name"><div class="surname">Tamura</div> <div class="given-names">K.</div></div></div> <div class="article-title">Mega x: Molecular evolutionary genetics analysis across computing platforms</div>. <div class="source ">Mol Biol Evol</div> <div class="year">2018</div>;<div class="volume">35</div>:<div class="fpage">1547</div>–<div class="lpage">9</div>.<div class="citation-links"></div><div class="citation-links"><div class="google-scholar-ref-link"><a class="openInAnotherWindow" href="https://scholar.google.com/scholar_lookup?title=Mega%20x%3A%20Molecular%20evolutionary%20genetics%20analysis%20across%20computing%20platforms&amp;author=S%20Kumar&amp;author=G%20Stecher&amp;author=M%20Li&amp;author=C%20Knyaz&amp;author=K.%20Tamura&amp;publication_year=2018&amp;journal=Mol%20Biol%20Evol&amp;volume=35&amp;pages=1547-9" target="_blank">Google Scholar</a></div><div class="crossref-doi js-ref-link"><a class="openInAnotherWindow" href="http://dx.doi.org/10.1093/molbev/msy096" target="_blank">Crossref</a></div><div class="adsDoiReference hide"><a class="openInAnotherWindow" href="http://adsabs.harvard.edu/cgi-bin/basic_connect?qsearch=10.1093%2Fmolbev%2Fmsy096" target="_blank">Search ADS</a></div><div class="xslopenurl" style="display:none"><span class="inst-open-url-holders" data-targetId="10.1093%2Fmolbev%2Fmsy096"> </span></div><div class="pub-id"><a href="http://www.ncbi.nlm.nih.gov/pubmed/29722887" class="link link-pub-id openInAnotherWindow" target="_blank">PubMed</a></div><div class="worldcat-reference-ref-link js-worldcat-preview-ref-link" style="display:none"><a class="openInAnotherWindow" href="https://www.worldcat.org/search?q=ti:Mega%20x%3A%20Molecular%20evolutionary%20genetics%20analysis%20across%20computing%20platforms&amp;qt=advanced&amp;dblist=638" target="_blank">WorldCat</a></div> </div></div></div></div></div><div content-id="hvaa029-B15" xmlns:helper="urn:XsltStringHelper"><div class="ref false"><div role="hvaa029-B15" class="ref-content "><div class="label">15</div><div class="citation mixed-citation"><div class="person-group"><div class="name string-name"><div class="surname">Chu</div> <div class="given-names">DKW</div></div>, <div class="name string-name"><div class="surname">Hui</div> <div class="given-names">KPY</div></div>, <div class="name string-name"><div class="surname">Perera</div> <div class="given-names">R</div></div>, <div class="name string-name"><div class="surname">Miguel</div> <div class="given-names">E</div></div>, <div class="name string-name"><div class="surname">Niemeyer</div> <div class="given-names">D</div></div>, <div class="name string-name"><div class="surname">Zhao</div> <div class="given-names">J</div></div></div>, et al. . <div class="article-title">MERS coronaviruses from camels in Africa exhibit region-dependent genetic diversity</div>. <div class="source ">Proc Natl Acad Sci USA</div> <div class="year">2018</div>;<div class="volume">115</div>:<div class="fpage">3144</div>–<div class="lpage">9</div>.<div class="citation-links"></div><div class="citation-links"><div class="google-scholar-ref-link"><a class="openInAnotherWindow" href="https://scholar.google.com/scholar_lookup?title=MERS%20coronaviruses%20from%20camels%20in%20Africa%20exhibit%20region-dependent%20genetic%20diversity&amp;author=DKW%20Chu&amp;author=KPY%20Hui&amp;author=R%20Perera&amp;author=E%20Miguel&amp;author=D%20Niemeyer&amp;author=J%20Zhao&amp;publication_year=2018&amp;journal=Proc%20Natl%20Acad%20Sci%20USA&amp;volume=115&amp;pages=3144-9" target="_blank">Google Scholar</a></div><div class="crossref-doi js-ref-link"><a class="openInAnotherWindow" href="http://dx.doi.org/10.1073/pnas.1718769115" target="_blank">Crossref</a></div><div class="adsDoiReference hide"><a class="openInAnotherWindow" href="http://adsabs.harvard.edu/cgi-bin/basic_connect?qsearch=10.1073%2Fpnas.1718769115" target="_blank">Search ADS</a></div><div class="xslopenurl" style="display:none"><span class="inst-open-url-holders" data-targetId="10.1073%2Fpnas.1718769115"> </span></div><div class="pub-id"><a href="http://www.ncbi.nlm.nih.gov/pubmed/29507189" class="link link-pub-id openInAnotherWindow" target="_blank">PubMed</a></div><div class="worldcat-reference-ref-link js-worldcat-preview-ref-link" style="display:none"><a class="openInAnotherWindow" href="https://www.worldcat.org/search?q=ti:MERS%20coronaviruses%20from%20camels%20in%20Africa%20exhibit%20region-dependent%20genetic%20diversity&amp;qt=advanced&amp;dblist=638" target="_blank">WorldCat</a></div> </div></div></div></div></div><div content-id="hvaa029-B16" xmlns:helper="urn:XsltStringHelper"><div class="ref false"><div role="hvaa029-B16" class="ref-content "><div class="label">16</div><div class="citation mixed-citation"><div class="person-group"><div class="name string-name"><div class="surname">Simons</div> <div class="given-names">FA</div></div>, <div class="name string-name"><div class="surname">Vennema</div> <div class="given-names">H</div></div>, <div class="name string-name"><div class="surname">Rofina</div> <div class="given-names">JE</div></div>, <div class="name string-name"><div class="surname">Pol</div> <div class="given-names">JM</div></div>, <div class="name string-name"><div class="surname">Horzinek</div> <div class="given-names">MC</div></div>, <div class="name string-name"><div class="surname">Rottier</div> <div class="given-names">PJ</div></div>, <div class="name string-name"><div class="surname">Egberink</div> <div class="given-names">HA.</div></div></div> <div class="article-title">mRNA PCR for the diagnosis of feline infectious peritonitis</div>. <div class="source ">J Virol Methods</div> <div class="year">2005</div>;<div class="volume">124</div>:<div class="fpage">111</div>–<div class="lpage">6</div>.<div class="citation-links"></div><div class="citation-links"><div class="google-scholar-ref-link"><a class="openInAnotherWindow" href="https://scholar.google.com/scholar_lookup?title=mRNA%20PCR%20for%20the%20diagnosis%20of%20feline%20infectious%20peritonitis&amp;author=FA%20Simons&amp;author=H%20Vennema&amp;author=JE%20Rofina&amp;author=JM%20Pol&amp;author=MC%20Horzinek&amp;author=PJ%20Rottier&amp;author=HA.%20Egberink&amp;publication_year=2005&amp;journal=J%20Virol%20Methods&amp;volume=124&amp;pages=111-6" target="_blank">Google Scholar</a></div><div class="crossref-doi js-ref-link"><a class="openInAnotherWindow" href="http://dx.doi.org/10.1016/j.jviromet.2004.11.012" target="_blank">Crossref</a></div><div class="adsDoiReference hide"><a class="openInAnotherWindow" href="http://adsabs.harvard.edu/cgi-bin/basic_connect?qsearch=10.1016%2Fj.jviromet.2004.11.012" target="_blank">Search ADS</a></div><div class="xslopenurl" style="display:none"><span class="inst-open-url-holders" data-targetId="10.1016%2Fj.jviromet.2004.11.012"> </span></div><div class="pub-id"><a href="http://www.ncbi.nlm.nih.gov/pubmed/15664058" class="link link-pub-id openInAnotherWindow" target="_blank">PubMed</a></div><div class="worldcat-reference-ref-link js-worldcat-preview-ref-link" style="display:none"><a class="openInAnotherWindow" href="https://www.worldcat.org/search?q=ti:mRNA%20PCR%20for%20the%20diagnosis%20of%20feline%20infectious%20peritonitis&amp;qt=advanced&amp;dblist=638" target="_blank">WorldCat</a></div> </div></div></div></div></div><div content-id="hvaa029-B17" xmlns:helper="urn:XsltStringHelper"><div class="ref false"><div role="hvaa029-B17" class="ref-content "><div class="label">17</div><div class="citation mixed-citation"><div class="person-group"><div class="name string-name"><div class="surname">Wang</div> <div class="given-names">M</div></div>, <div class="name string-name"><div class="surname">Yan</div> <div class="given-names">M</div></div>, <div class="name string-name"><div class="surname">Xu</div> <div class="given-names">H</div></div>, <div class="name string-name"><div class="surname">Liang</div> <div class="given-names">W</div></div>, <div class="name string-name"><div class="surname">Kan</div> <div class="given-names">B</div></div>, <div class="name string-name"><div class="surname">Zheng</div> <div class="given-names">B</div></div></div>, et al. . <div class="article-title">SARS-CoV infection in a restaurant from palm civet</div>. <div class="source ">Emerg Infect Dis</div> <div class="year">2005</div>;<div class="volume">11</div>:<div class="fpage">1860</div>–<div class="lpage">5</div>.<div class="citation-links"></div><div class="citation-links"><div class="google-scholar-ref-link"><a class="openInAnotherWindow" href="https://scholar.google.com/scholar_lookup?title=SARS-CoV%20infection%20in%20a%20restaurant%20from%20palm%20civet&amp;author=M%20Wang&amp;author=M%20Yan&amp;author=H%20Xu&amp;author=W%20Liang&amp;author=B%20Kan&amp;author=B%20Zheng&amp;publication_year=2005&amp;journal=Emerg%20Infect%20Dis&amp;volume=11&amp;pages=1860-5" target="_blank">Google Scholar</a></div><div class="crossref-doi js-ref-link"><a class="openInAnotherWindow" href="http://dx.doi.org/10.3201/eid1112.041293" target="_blank">Crossref</a></div><div class="adsDoiReference hide"><a class="openInAnotherWindow" href="http://adsabs.harvard.edu/cgi-bin/basic_connect?qsearch=10.3201%2Feid1112.041293" target="_blank">Search ADS</a></div><div class="xslopenurl" style="display:none"><span class="inst-open-url-holders" data-targetId="10.3201%2Feid1112.041293"> </span></div><div class="pub-id"><a href="http://www.ncbi.nlm.nih.gov/pubmed/16485471" class="link link-pub-id openInAnotherWindow" target="_blank">PubMed</a></div><div class="worldcat-reference-ref-link js-worldcat-preview-ref-link" style="display:none"><a class="openInAnotherWindow" href="https://www.worldcat.org/search?q=ti:SARS-CoV%20infection%20in%20a%20restaurant%20from%20palm%20civet&amp;qt=advanced&amp;dblist=638" target="_blank">WorldCat</a></div> </div></div></div></div></div><div content-id="hvaa029-B18" xmlns:helper="urn:XsltStringHelper"><div class="ref false"><div role="hvaa029-B18" class="ref-content "><div class="label">18</div><div class="citation mixed-citation">World Health Organization. Detection of 2019 novel coronavirus (2019-nCoV) in suspected human cases by RT-PCR. <a class="link link-uri openInAnotherWindow" href="https://www.who.int/docs/default-source/coronaviruse/peiris-protocol-16-1-20.pdf? sfvrsn=af1aac73_4/ (Assessed January" target="_blank">https://www.who.int/docs/default-source/coronaviruse/peiris-protocol-16-1-20.pdf? sfvrsn=af1aac73_4/ (Accessed January</a> <div class="year">2020</div>).</div></div></div></div><div content-id="hvaa029-B19" xmlns:helper="urn:XsltStringHelper"><div class="ref false"><div role="hvaa029-B19" class="ref-content "><div class="label">19</div><div class="citation mixed-citation">World Health Organization. Laboratory testing for 2019 novel coronavirus (<div class="year">2019</div>-nCoV) in suspected human cases. <a class="link link-uri openInAnotherWindow" href="https://www.who.int/publications-detail/laboratory-testing-for-2019-novel-coronavirus-" target="_blank">https://www.who.int/publications-detail/laboratory-testing-for-2019-novel-coronavirus-</a>(2019-nCoV)-in-suspected-human-cases (Accessed January 2020).</div></div></div></div><div content-id="hvaa029-B20" xmlns:helper="urn:XsltStringHelper"><div class="ref false"><div role="hvaa029-B20" class="ref-content "><div class="label">20</div><div class="citation mixed-citation"><div class="person-group"><div class="name string-name"><div class="surname">Corman</div> <div class="given-names">VM</div></div>, <div class="name string-name"><div class="surname">Landt</div> <div class="given-names">O</div></div>, <div class="name string-name"><div class="surname">Kaiser</div> <div class="given-names">M</div></div>, <div class="name string-name"><div class="surname">Molenkamp</div> <div class="given-names">R</div></div>, <div class="name string-name"><div class="surname">Meijer</div> <div class="given-names">A</div></div>, <div class="name string-name"><div class="surname">Chu</div> <div class="given-names">DKW</div></div></div>, et al. . <div class="article-title">Detection of 2019 novel coronavirus (2019-nCoV) by real-time RT-PCR</div>. <div class="source ">Euro Surveill</div> <div class="year">2020</div>;<div class="volume">25</div>:pii=<div class="fpage">2000045</div>.<div class="citation-links"></div><div class="citation-links"><div class="google-scholar-ref-link"><a class="openInAnotherWindow" href="https://scholar.google.com/scholar_lookup?title=Detection%20of%202019%20novel%20coronavirus%20(2019-nCoV)%20by%20real-time%20RT-PCR&amp;author=VM%20Corman&amp;author=O%20Landt&amp;author=M%20Kaiser&amp;author=R%20Molenkamp&amp;author=A%20Meijer&amp;author=DKW%20Chu&amp;publication_year=2020&amp;journal=Euro%20Surveill&amp;volume=25&amp;pages=2000045" target="_blank">Google Scholar</a></div><div class="crossref-doi js-ref-link"><a class="openInAnotherWindow" href="http://dx.doi.org/10.2807/1560-7917.ES.2020.25.3.2000045" target="_blank">Crossref</a></div><div class="adsDoiReference hide"><a class="openInAnotherWindow" href="http://adsabs.harvard.edu/cgi-bin/basic_connect?qsearch=10.2807%2F1560-7917.ES.2020.25.3.2000045" target="_blank">Search ADS</a></div><div class="xslopenurl" style="display:none"><span class="inst-open-url-holders" data-targetId="10.2807%2F1560-7917.ES.2020.25.3.2000045"> </span></div><div class="worldcat-reference-ref-link js-worldcat-preview-ref-link" style="display:none"><a class="openInAnotherWindow" href="https://www.worldcat.org/search?q=ti:Detection%20of%202019%20novel%20coronavirus%20(2019-nCoV)%20by%20real-time%20RT-PCR&amp;qt=advanced&amp;dblist=638" target="_blank">WorldCat</a></div> </div></div></div></div></div></div>                    <h3 scrollto-destination=198623124 id="198623124" class="definitionlist-title" >Nonstandard Abbreviations</h3>
+<ul class="def-list"><div class="title">Nonstandard Abbreviations</div><a id="" class="jumplink-placeholder"> </a><li class="def-item"><div class="term">TCID<sup>50</sup></div><div class="def"><p>Median tissue culture infectious dose</p></div></li><a id="" class="jumplink-placeholder"> </a><li class="def-item"><div class="term">SARS</div><div class="def"><p>Severe Acute Respiratory Syndrome</p></div></li><a id="" class="jumplink-placeholder"> </a><li class="def-item"><div class="term">MERS</div><div class="def"><p>Middle East Respiratory Syndrome</p></div></li></ul>        <!-- /foreach -->
+
+
+
+        <div class="article-metadata-standalone-panel clearfix"></div>
+
+        
+                    <h2 class="authorNotes-section-title" id="authorNotesSectionTitle" scrollto-destination="authorNotesSectionTitle">Author notes</h2>
+<div content-id="hvaa029-FM1"><div class="fn"><div class="footnote-content"> Daniel K.W. Chu and Yang Pan with equal contribution.</div></div></div><div content-id="hvaa029-FM2"><div class="fn"><div class="footnote-content"> Joint senior authors with equal contribution.</div></div></div><div class="copyright copyright-statement">© American Association for Clinical Chemistry 2020. All rights reserved. For permissions, please email: journals.permissions@oup.com.</div><div class="license"><div class="license-p">This article is published and distributed under the terms of the Oxford University Press, Standard Journals Publication Model (<a class="link link-uri openInAnotherWindow" href="https://academic.oup.com/journals/pages/open_access/funder_policies/chorus/standard_publication_model" target="_blank">https://academic.oup.com/journals/pages/open_access/funder_policies/chorus/standard_publication_model</a>)</div></div><!-- /foreach -->
+
+        <span id="UserHasAccess" data-userHasAccess="True"></span>
+
+    </div><!-- /.widget-items -->
+</div><!-- /.module-widget -->
+
+ 
+    </div>
+    <div class="widget widget-SolrResourceMetadata widget-instance-OUP_Article_ResourceMetadata_Widget">
+        
+    <div class="article-metadata-panel solr-resource-metadata">
+                <div class="article-metadata-tocSections">
+                    <div class="article-metadata-tocSections-title">Issue Section:</div>
+                        <a href="/clinchem/search-results?f_TocHeadingTitle=Infectious Disease">Infectious Disease</a>
+                </div>
+
+    </div>
+
+ 
+    </div>
+    <div class="widget widget-EditorInformation widget-instance-OUP_Article_EditorInformation_Widget">
+        
+ 
+    </div>
+    <div class="widget widget-ArticleOpenScienceBadges widget-instance-OUP_Article_OpenScienceBadge_Widget">
+        
+ 
+    </div>
+
+                <div id="ContentTabFilteredView"></div>
+                <div class="downloadImagesppt js-download-images-ppt st-download-images-ppt">
+                    <a id="lnkDownloadAllImages"
+                       class="js-download-all-images-link"
+                       href="/DownloadFile/DownloadImage.aspx?image=&amp;PPTtype=SlideSet&amp;ar=5719336&amp;xsltPath=~/UI/app/XSLT&amp;siteId=6246">Download all figures</a>
+                </div>
+                    <div class="widget widget-ArticleDataRepositories widget-instance-Article_DryadLink">
+         
+    </div>
+
+                <div class="comments">
+    <div class="widget widget-UserCommentBody widget-instance-UserCommentBody_Article">
+        
+
+ 
+    </div>
+    <div class="widget widget-UserComment widget-instance-OUP_UserComment_Article">
+         
+    </div>
+
+                </div>
+            </div>
+        </div>
+
+    </div>
+</div>
+<div id="Sidebar" class="page-column page-column--right">
+    <div class="widget widget-AdBlock widget-instance-ArticlePageTopSidebar">
+        
+
+<div id="adBlockMainBodyTop"
+     style=" ">
+    <script>
+        googletag.cmd.push(function () { googletag.display('adBlockMainBodyTop'); });
+    </script>
+</div>
+ 
+    </div>
+<div class="widget widget-dynamic " data-count="1"> 
+
+    <div class="widget-dynamic-inner-wrap">
+
+<div class="widget widget-dynamic " data-count="10"> 
+
+    <div class="widget-dynamic-inner-wrap">
+
+    <div class="widget widget-ArticleLevelMetrics widget-instance-Article_RightRailB0Article_RightRail_ArticleLevelMetrics">
+        
+
+
+
+    <div class="artmet-wrapper horizontal-artmet">
+
+        <div class="artmet-condensed-wrap clearfix">
+
+            <div class="artmet-condensed-stats clearfix">
+                    <div class="artmet-item artmet-views">
+                        <span class="artmet-number">4,784</span>
+                        <span class="artmet-text">Views</span>
+                    </div>
+
+                <div class="artmet-item artmet-citations">
+                    <span class="artmet-number">
+0                    </span>
+                    <span class="artmet-text">Citations</span>
+                </div>
+                    <div class="artmet-item artmet-altmetric">
+    <div class="widget widget-AltmetricLink widget-instance-ArticleLevelMetrics_AltmetricLinkSummary">
+            <!-- Altmetrics -->
+    <div id="altmetricEmbedId"
+         runat="server"
+         class='altmetric-embed'
+         data-badge-type="donut"
+         data-hide-no-mentions="false"
+         data-doi="10.1093/clinchem/hvaa029"
+
+        
+
+        ></div>
+         <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
+ 
+    </div>
+
+                    </div>
+
+
+
+            </div>
+
+                <div class="artmet-modal-trigger-wrap clearfix">
+                    <a class="artmet-modal-trigger" data-article-id="5719336"><i class="icon-metrics"></i><span>View Metrics</span></a>
+                </div>
+        </div>
+            <div class="artmet-modal" id="MetricsModal">
+                <div class="artmet-modal-contents">
+                    <a class="artmet-close-modal">&#215;</a>
+                </div>
+            </div>
+    </div>
+
+ 
+    </div>
+    <div class="widget widget-Alerts widget-instance-Article_RightRailB0Article_RightRail_Alerts">
+        
+    <div class="alertsWidget">
+        <h3>Email alerts</h3>
+                <div class="userAlert alertType-1">
+                    <a role="link" aria-label="Article activity alert"
+                       data-userLoggedIn="False"
+                       data-alertType="1">Article activity alert</a>
+                </div>
+                <div class="userAlert alertType-3">
+                    <a role="link" aria-label="Advance article alerts"
+                       data-userLoggedIn="False"
+                       data-alertType="3">Advance article alerts</a>
+                </div>
+                <div class="userAlert alertType-5">
+                    <a role="link" aria-label="New issue alert"
+                       data-userLoggedIn="False"
+                       data-alertType="5">New issue alert</a>
+                </div>
+                    <div class="userAlert alertType-MarketingLink">
+                <a role="link" aria-label="Receive exclusive offers and updates from Oxford Academic"
+                   data-userLoggedIn="False"
+                   data-additionalUrl="/my-account/communication-preferences">Receive exclusive offers and updates from Oxford Academic</a>
+            </div>
+        <div class="userAlertSignUpModal reveal-modal small" data-reveal>
+            <div class="userAlertSignUp"></div>
+            <label for="alert-signup-modal-close" class="screenreader-text">Close</label>
+            <a role="button" id="alert-signup-modal-close" class="close-reveal-modal" href="javascript:;">
+                <i class="icon-general-close"></i>
+            </a>
+        </div>
+    </div>
+ 
+    </div>
+    <div class="widget widget-ArticleLinks widget-instance-Article_RightRailB0Article_RightRail_ArticleLinks">
+         
+    </div>
+    <div class="widget widget-RelatedContent widget-instance-Article_RightRailB0Article_RightRail_RelatedContent">
+         
+    </div>
+    <div class="widget widget-RelatedArticleIn widget-instance-Article_RightRailB0Article_RightRail_RelatedArticleIn">
+            <h3 class="relatedArticleIn-title">Related articles in</h3>
+    <div class="relatedArticleIn-content">
+        <ul>
+                <li>
+                    <a href="https://scholar.google.com/scholar?q=related:https%3a%2f%2facademic.oup.com%2fclinchem%2fadvance-article%2fdoi%2f10.1093%2fclinchem%2fhvaa029%2f5719336">Google Scholar</a>
+                </li>
+        </ul>
+    </div>
+ 
+    </div>
+    <div class="widget widget-ArticleCitedBy widget-instance-Article_RightRailB0Article_RightRail_ArticleCitedBy">
+        <div class="rail-widget_wrap vt-articles-cited-by">
+    <h3 class="article-cited-title">Citing articles via</h3>
+    <div class="widget-links_wrap">
+                    <div class="article-cited-link-wrap google-scholar-url">
+                <a href="http://scholar.google.com/scholar?q=link:https%3A%2F%2Facademic.oup.com%2Fclinchem%2Fadvance-article%2Fdoi%2F10.1093%2Fclinchem%2Fhvaa029%2F5719336" target="_blank">Google Scholar</a>
+            </div>
+                    <div class="article-cited-link-wrap crossref-citedby">
+                <a href='https://academic.oup.com/clinchem/crossref-citedby/5719336'>Crossref</a>
+            </div>
+    </div>
+</div> 
+    </div>
+    <div class="widget widget-ArticleListNewAndPopular widget-instance-Article_RightRailB0Article_RightRail_ArticleNewPopularCombined">
+            <ul class="articleListNewAndPopularCombinedView">
+            <li>
+                <a href="javascript:;" class="articleListNewAndPopular-mode active" data-mode="MostRecent">Latest</a>
+            </li>
+            <li>
+                <a href="javascript:;" class="articleListNewAndPopular-mode " data-mode="MostRead">Most Read</a>
+            </li>
+            <li>
+                <a href="javascript:;" class="articleListNewAndPopular-mode " data-mode="MostCited">Most Cited</a>
+            </li>
+    </ul>
+        <section class="articleListNewPopContent articleListNewAndPopular-ContentView-MostRecent hasContent">
+
+
+
+
+<div id="newPopularList-Article_RightRailB0Article_RightRail_ArticleNewPopularCombined" class="fb">
+
+    
+
+
+
+
+
+
+
+<div class="widget-layout widget-layout--vert">
+
+
+
+
+
+
+        <div class="widget-columns widget-col-1">
+            <div class="col">
+
+                <div class="widget-dynamic-entry">
+                    
+
+                                            <a href="/clinchem/advance-article/doi/10.1093/clinchem/hvaa071/5741389?searchresult=1">
+                                                            <div class="widget-dynamic-journal-title">
+Emergence of a Novel Coronavirus Disease (COVID-19) and the Importance of Diagnostic Testing: Why Partnership between Clinical Laboratories, Public Health Agencies, and Industry Is Essential to Control the Outbreak                                </div>
+                        </a>
+                        <div class="widget-dynamic-journal-image-synopsis">
+                                <div class="widget-dynamic-journal-synopsis">
+                                </div>
+                        </div>
+
+                </div>
+                <div class="widget-dynamic-entry">
+                    
+
+                                            <a href="/clinchem/advance-article/doi/10.1093/clinchem/hvaa002/5739997?searchresult=1">
+                                                            <div class="widget-dynamic-journal-title">
+Easy One-Step Amplification and Labeling Procedure for Copy Number Variation Detection                                </div>
+                        </a>
+                        <div class="widget-dynamic-journal-image-synopsis">
+                                <div class="widget-dynamic-journal-synopsis">
+                                    
+                                </div> <!-- /.widget-dynamic-journal-synopsis -->
+                        </div>
+
+                </div>
+                <div class="widget-dynamic-entry">
+                    
+
+                                            <a href="/clinchem/advance-article/doi/10.1093/clinchem/hvaa001/5739981?searchresult=1">
+                                                            <div class="widget-dynamic-journal-title">
+Measurement of Equilibrium Angiotensin II in the Diagnosis of Primary Aldosteronism                                </div>
+                        </a>
+                        <div class="widget-dynamic-journal-image-synopsis">
+                                <div class="widget-dynamic-journal-synopsis">
+                                    
+                                </div> <!-- /.widget-dynamic-journal-synopsis -->
+                        </div>
+
+                </div>
+                <div class="widget-dynamic-entry">
+                    
+
+                                            <a href="/clinchem/advance-article/doi/10.1093/clinchem/hvaa003/5735557?searchresult=1">
+                                                            <div class="widget-dynamic-journal-title">
+Calibrating from Within: Multipoint Internal Calibration of a Quantitative Mass Spectrometric Assay of Serum Methotrexate                                </div>
+                        </a>
+                        <div class="widget-dynamic-journal-image-synopsis">
+                                <div class="widget-dynamic-journal-synopsis">
+                                    
+                                </div> <!-- /.widget-dynamic-journal-synopsis -->
+                        </div>
+
+                </div>
+                <div class="widget-dynamic-entry">
+                    
+
+                                            <a href="/clinchem/advance-article/doi/10.1093/clinchem/hvaa005/5735554?searchresult=1">
+                                                            <div class="widget-dynamic-journal-title">
+Hidden in Plain Sight: Machine Learning in Acute Kidney Injury                                </div>
+                        </a>
+                        <div class="widget-dynamic-journal-image-synopsis">
+                                <div class="widget-dynamic-journal-synopsis">
+                                    
+                                </div> <!-- /.widget-dynamic-journal-synopsis -->
+                        </div>
+
+                </div>
+            </div>
+        </div>
+</div><!-- /.widget-layout-[orientation] --></div>
+        </section>
+        <section class="articleListNewPopContent articleListNewAndPopular-ContentView-MostRead hide">
+        </section>
+        <section class="articleListNewPopContent articleListNewAndPopular-ContentView-MostCited hide">
+        </section>
+ 
+    </div>
+
+    </div>
+
+</div>
+    </div>
+
+</div>    <div class="widget widget-AdBlock widget-instance-ArticlePageTopMainBodyBottom">
+        
+
+<div id="adBlockMainBodyBottom"
+     style=" ">
+    <script>
+        googletag.cmd.push(function () { googletag.display('adBlockMainBodyBottom'); });
+    </script>
+</div>
+ 
+    </div>
+
+</div>
+
+</div>
+<input id="hfArticleTitle" name="hfArticleTitle" type="hidden" value="Molecular Diagnosis of a Novel Coronavirus (2019-nCoV) Causing an Outbreak of Pneumonia | Clinical Chemistry | Oxford Academic" />
+<input id="hfLeftNavStickyOffset" name="hfLeftNavStickyOffset" type="hidden" value="29" />
+
+
+            </div><!-- /.center-inner-row no-overflow -->
+        </section>
+    </div>
+    <div class="mobile-mask">
+    </div>
+    <section class="footer_wrap vt-site-footer">
+        
+    <script type="text/javascript" src="https://www.google.com/recaptcha/api.js?onload=onloadCallback&render=explicit"></script>
+    
+    
+    <script type="text/javascript" src="https://cdn.jsdelivr.net/chartist.js/latest/chartist.min.js"></script>
+
+    <script type="text/javascript" src="//oup.silverchair-cdn.com/UI/app/jsdist/v-637171824117090148/article-page.min.js"></script>
+
+    <script type="text/javascript">
+        googletag.cmd.push(function () {
+            
+            googletag.pubads().setTargeting("jnlsdoi", "10.1093/clinchem/hvaa029");
+            googletag.enableServices();
+        });
+    </script>
+
+
+
+        
+
+
+    <div class="widget widget-SitePageFooter widget-instance-SitePageFooter">
+        <div class="ad-banner ad-banner-footer">
+    <div class="widget widget-AdBlock widget-instance-FooterAd">
+        
+
+<div id="adBlockFooter"
+     style=" ">
+    <script>
+        googletag.cmd.push(function () { googletag.display('adBlockFooter'); });
+    </script>
+</div>
+ 
+    </div>
+
+</div>
+
+    <div class="journal-footer journal-bg">
+        <div class="center-inner-row">
+
+                <div class="journal-footer-menu">
+
+                    <ul>
+                                <li class="link-1">
+                                    <a href="/clinchem/pages/About">About Clinical Chemistry</a>
+                                </li>
+                                <li class="link-2">
+                                    <a href="https://www.aacc.org/about-aacc">About AACC</a>
+                                </li>
+                                <li class="link-3">
+                                    <a href="/clinchem/pages/Editorial_Board">Editorial Board</a>
+                                </li>
+                                <li class="link-4">
+                                    <a href="/clinchem/pages/General_Instructions">Author Guidelines</a>
+                                </li>
+                                <li class="link-5">
+                                    <a href="https://twitter.com/clin_chem_aacc">Twitter</a>
+                                </li>
+</ul><ul>                                <li class="link-1">
+                                    <a href="https://www.facebook.com/AACCJournals">Facebook</a>
+                                </li>
+                                <li class="link-2">
+                                    <a href="http://www.oxfordjournals.org/en/library-recommendation-form.html">Recommend to Your Librarian</a>
+                                </li>
+                                <li class="link-3">
+                                    <a href="http://www.oupmediainfo.com/#!/">Advertising and Corporate Services</a>
+                                </li>
+                                <li class="link-4">
+                                    <a href="https://globaljobs-careernetwork.oxfordjournals.org">Journals Career Network</a>
+                                </li>
+
+                    </ul>
+
+
+                </div><!-- /.journal-footer-menu -->
+
+            <div class="journal-footer-affiliations">
+                <!-- <h3>Affiliations</h3> -->
+            </div><!-- /.journal-footer-affiliations -->
+
+            <div class="journal-footer-colophon">
+                <ul>
+                        <li>Online ISSN 1530-8561</li>
+                                            <li>Print ISSN 0009-9147</li>
+                    <li>Copyright &#169; 2020 American Association of Clinical Chemistry</li>
+                </ul>
+            </div><!-- /.journal-footer-colophon -->
+
+
+        </div><!-- /.center-inner-row -->
+    </div><!-- /.journal-footer -->
+ 
+    </div>
+
+<div class="oup-footer">
+    <div class="center-inner-row">
+    <div class="widget widget-SelfServeContent widget-instance-OupUmbrellaFooterSelfServe">
+        
+<div class="oup-footer-row journal-links">
+<div class="global-footer selfservelinks">
+<ul>
+    <li>
+    <a href="/journals/pages/about_us">About Us</a>
+    </li>
+    <li>
+    <a href="/journals/pages/contact_us">Contact Us</a>
+    </li>
+    <li>
+    <a href="http://global.oup.com/jobs">Careers</a>
+    </li>
+    <li>
+    <a href="/journals/pages/help">Help</a>
+    </li>
+    <li>
+    <a href="/journals/pages/access_purchase">Access &amp; Purchase</a></li>
+    <li>
+    <a href="/journals/pages/access_purchase/rights_and_permissions">Rights &amp; Permissions</a>
+    </li>
+    <li>
+    <a href="/journals/pages/open_access">Open Access</a>
+    </li>
+</ul>
+</div>
+<div class="global-footer selfservelinks">
+<h4 id="global-footer-customer services" class="title footerheader">Connect</h4>
+<ul>
+    <li>
+    <a href="/my-account/communication-preferences">Join Our Mailing List</a>
+    </li>
+    <li>
+    <a href="http://blog.oup.com/">OUPblog</a>
+    </li>
+    <li>
+    <a href="http://twitter.com/oupacademic">Twitter</a>
+    </li>
+    <li>
+    <a href="https://www.facebook.com/OUPAcademic">Facebook</a>
+    </li>
+    <li>
+    <a href="http://www.youtube.com/playlist?list=PL3MAPgqN8JWioLLTkU4mlFM4-SNt-f1Xs">YouTube</a>
+    </li>
+    <li>
+    <a href="http://oupacademic.tumblr.com/">Tumblr</a>
+    </li>
+</ul>
+</div>
+<div class="global-footer selfservelinks">
+<h4>Resources</h4>
+<ul>
+    <li><a href="/journals/pages/authors">Authors</a></li>
+    <li><a href="/journals/pages/librarians">Librarians</a></li>
+    <li><a href="/journals/pages/societies">Societies</a></li>
+    <li><a href="https://academic.oup.com/journals/pages/sponsorship_and_advertising">Sponsors &amp; Advertisers</a></li>
+    <li><a href="/journals/pages/press">Press &amp; Media</a></li>
+    <li><a href="/journals/pages/agents">Agents</a></li>
+</ul>
+</div>
+<div class="global-footer selfservelinks">
+<h4>Explore</h4>
+<ul>
+    <li><a href="http://global.oup.com/academic">Shop OUP Academic</a></li>
+    <li><a href="http://www.oxforddictionaries.com/">Oxford Dictionaries</a></li>
+    <li><a href="http://oxfordindex.oup.com/">Oxford Index</a></li>
+    <li><a href="https://www.epigeum.com/">Epigeum</a></li>
+    <li><a href="http://global.oup.com/">OUP Worldwide</a></li>
+    <li><a href="http://www.ox.ac.uk/">University of Oxford</a></li>
+</ul>
+</div>
+<div class="OUP-mission">
+<p>Oxford University Press is a department of the University of Oxford. It furthers the University's objective of excellence in research, scholarship, and education by publishing worldwide</p>
+<img class="journal-footer-logo" src="//oup.silverchair-cdn.com/UI/app/svg/umbrella/oup-logo.svg" alt="Oxford University Press" width="150" height="42" />
+</div>
+</div>
+<div class="oup-footer-row">
+<div class="oup-footer-row-links">
+<ul>
+    <li>Copyright &copy; 2020 Oxford University Press</li>
+    <li><a href="https://global.oup.com/cookiepolicy/">Cookie Policy</a></li>
+    <li><a href="https://global.oup.com/privacy">Privacy Policy</a></li>
+    <li><a href="/journals/pages/about_us/legal/notices">Legal Notice</a></li>
+    <li><a href="/journals/pages/sitemap">Site Map</a></li>
+    <li><a href="/journals/pages/about_us/legal/accessibility">Accessibility</a></li>
+    <li><a href="https://get.adobe.com/reader/">Get Adobe Reader</a></li>
+</ul>
+</div>
+</div>
+<style type="text/css">
+    /* Issue right column fix for tablet/mobile */
+    @media (max-width: 1200px) {
+    .pg_issue .widget-instance-OUP_Issue {
+    width: 100%;
+    }
+    }
+    .sf-facet-list .sf-facet label, .sf-facet-list .taxonomy-label-wrap label {font-size: .9375rem;}
+    .issue-pagination-wrap .pagination-container {float: right;}
+</style>
+    
+    
+     
+    </div>
+
+    </div>
+</div>
+<div class="ss-ui-only">
+
+</div>
+
+    </section>
+</div>
+
+
+
+    
+
+
+
+    
+
+
+    <div id="revealModal" class="reveal-modal" data-reveal>
+        <div id="revealContent"></div>
+        <a class="close-reveal-modal" href="javascript:;"><i class="icon-general-close"></i><span class="screenreader-text">Close</span></a>
+    </div>
+    <div id="NeedSubscription" class="reveal-modal small" data-reveal>
+        <div class="subscription-needed">
+            <h5>This Feature Is Available To Subscribers Only</h5>
+            <p><a href="/sign-in">Sign In</a> or <a href="/my-account/register?siteId=6246&amp;returnUrl=%2fclinchem%2fadvance-article%2fdoi%2f10.1093%2fclinchem%2fhvaa029%2f5719336">Create an Account</a></p>
+        </div>
+        <a class="close-reveal-modal" href="javascript:;"><i class="icon-general-close"></i><span class="screenreader-text">Close</span></a>
+    </div>
+    <div id="noAccessReveal" class="reveal-modal tiny" data-reveal>
+        <p>This PDF is available to Subscribers Only</p>
+        <a class="hide-for-article-page" id="articleLinkToPurchase" data-reveal><span>View Article Abstract & Purchase Options</span></a>
+        <div class="issue-purchase-modal">
+            <p>For full access to this pdf, sign in to an existing account, or purchase an annual subscription.</p>
+        </div>
+        <a class="close-reveal-modal" href="javascript:;"><i class="icon-general-close"></i><span class="screenreader-text">Close</span></a>
+    </div>
+
+
+    
+
+
+<script src="//cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+
+
+<script src="//cdn.jsdelivr.net/npm/promise-polyfill@8/dist/polyfill.min.js"></script>
+
+    <script type="text/javascript" src="//oup.silverchair-cdn.com/UI/app/jsdist/v-637171824118808917/footer.min.js"></script>
+    <script async="async" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=xa-5265518246c10183&domready=1"></script>
+
+
+    
+
+    
+
+    
+    
+
+
+
+
+    
+
+
+    <!-- Copyright 2001-2010, IBM Corporation All rights reserved. -->
+    <script src="//ouptag.scholarlyiq.com/ntpagetag.js"></script>
+    <noscript>
+        <img src="//ouptag.scholarlyiq.com/ntpagetag.gif?js=0" height="1" width="1" border="0" hspace="0" vspace="0" alt="Scholarly IQ" />
+    </noscript>
+
+
+    <div class="ad-banner js-ad-riser ad-banner-riser">
+
+    <div class="widget widget-AdBlock widget-instance-RiserAd">
+        <input type="hidden"
+       class="hfAdBlockInfo"
+       data-divid="adBlockRiser"
+       data-slotname=""
+       data-targetname=""
+       data-width=""
+       data-height=""
+       data-enabled-on-mobile="True"
+       data-adprovider-typeid="1" />
+
+ 
+    </div>
+
+    </div>
+
+
+</body>
+</html>
+
